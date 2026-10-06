@@ -1,0 +1,41 @@
+[
+ {
+  "run": "2026-10-06T20:55:53+00:00",
+  "added": [
+   "Striping Drawings/N_Streets/Noe st/Noe St_STR-8463.3 (Market St to Duboce Ave).pdf"
+  ],
+  "removed": [
+   "Striping Drawings/N_Streets/Noe st/Noe St_Str-5170 (Duboce Ave to Market St).pdf",
+   "Striping Drawings/P_Streets/Paul Ave/Paul Ave_Str-8057 (San Bruno Ave to 3rd St).pdf",
+   "Striping Drawings/W_Streets/Waterville St.pdf"
+  ],
+  "renamed": [
+   {
+    "id": "4072",
+    "from": [
+     "Striping Drawings/F_Streets/Fillmore St/Fillmore st_str-4072 (Chestnut St to Clay St.pdf"
+    ],
+    "to": "Striping Drawings/F_Streets/Fillmore St/Fillmore st_str-4072 (Chestnut St to Clay St See Juan Hernandez 2026-10-05.pdf"
+   },
+   {
+    "id": "6690",
+    "from": [
+     "Striping Drawings/P_Streets/Pierce St/Pierce st_str-6690 (Broadway St to Jackson St).pdf"
+    ],
+    "to": "Striping Drawings/P_Streets/Pierce St/Pierce st_str-6690 (Broadway St to Jackson St) See Juan Hernandez 2026-10-05.pdf"
+   }
+  ],
+  "updated": [
+   {
+    "path": "Striping Drawings/02_Numbered_Street/20th St/20th St_Str-8364.1 (Church St to Mission St).pdf",
+    "was": "2026-07-10T06:30:31+00:00",
+    "now": "2026-10-03T06:30:55+00:00"
+   },
+   {
+    "path": "Striping Drawings/M_Streets/Mission St/3-Mission St_Str-8249.2 (Seneca Ave to Harrington St).pdf",
+    "was": "2026-08-27T06:30:26+00:00",
+    "now": "2026-10-06T06:33:48+00:00"
+   }
+  ]
+ }
+]
