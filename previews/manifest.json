@@ -7288,5 +7288,1805 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1941
+},
+"492421d0e7f6": {
+"path": "Striping Drawings/H_Streets/Harney Way/Harney way_str-3043 (Bayshore to James town).pdf",
+"modified": "2024-08-15T21:37:29+00:00",
+"w": 1000,
+"h": 628,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1885
+},
+"52f29606af25": {
+"path": "Striping Drawings/H_Streets/Harney Way/Harney way_str-4885 (West of James town).pdf",
+"modified": "2024-08-15T21:37:18+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e53532da7cbf": {
+"path": "Striping Drawings/H_Streets/Harney Way/Harney way_str-4926.1 (James town to Mckinley ave).pdf",
+"modified": "2024-08-15T21:37:35+00:00",
+"w": 1000,
+"h": 628,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1885
+},
+"9e85b8571220": {
+"path": "Striping Drawings/H_Streets/Harney Way/Harney Way_Str-8230 (Jamestown Ave to Alana Way).pdf",
+"modified": "2025-07-02T06:30:33+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e33294846389": {
+"path": "Striping Drawings/H_Streets/Harriet St/Harriet st_str-3467 (Harriet & Ahern way) See Raoul Rouque 2013-02-04.pdf",
+"modified": "2024-08-15T21:37:36+00:00",
+"w": 1000,
+"h": 706,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2119
+},
+"5ecec441d918": {
+"path": "Striping Drawings/H_Streets/Harriet St/Harriet St_STR-8453 (Howard St to Brannan St).pdf",
+"modified": "2024-12-20T07:30:42+00:00",
+"w": 1000,
+"h": 667,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2000
+},
+"2adeda2ae2ac": {
+"path": "Striping Drawings/H_Streets/Harrison St/Harrison St_str-5388 (22nd st to Precita ave).pdf",
+"modified": "2026-08-19T06:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"dfd50ef09664": {
+"path": "Striping Drawings/H_Streets/Harrison St/Harrison St_str-6871 (20th St to 22nd St).pdf",
+"modified": "2025-10-05T06:30:50+00:00",
+"w": 1000,
+"h": 649,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1948
+},
+"aa2c1e052840": {
+"path": "Striping Drawings/H_Streets/Harrison St/Harrison St_str-8160.2 (20th st to 15th st).pdf",
+"modified": "2026-09-23T06:30:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"09633491edda": {
+"path": "Striping Drawings/H_Streets/Harrison St/Harrison St_Str-8160.3 (15th St to Gordon St).pdf",
+"modified": "2026-08-08T06:31:22+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e7c1a0737b8b": {
+"path": "Striping Drawings/H_Streets/Harrison St/Harrison St_Str-8160.4 (8th St to 5th St).pdf",
+"modified": "2025-09-26T06:30:20+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"7434ff001054": {
+"path": "Striping Drawings/H_Streets/Harrison St/Harrison St_Str-8160.5 (5th St to Essex St).pdf",
+"modified": "2026-08-19T06:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d74155c527f4": {
+"path": "Striping Drawings/H_Streets/Harrison St/Harrison St_Str-8160.6 (Essex St to The Embarcadero).pdf",
+"modified": "2025-09-27T06:33:45+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"83d0252c7d0d": {
+"path": "Striping Drawings/H_Streets/Hawthorne St/Hawthorne St_Str-7914 (Harrison St to Folsom St).pdf",
+"modified": "2024-08-24T06:31:17+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"829ede937e79": {
+"path": "Striping Drawings/H_Streets/Hayes St/Hayes St_Str-8295 (Stanyan St to Masonic Ave).pdf",
+"modified": "2025-07-08T06:30:47+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2e2f36e1d3ba": {
+"path": "Striping Drawings/H_Streets/Hayes St/Hayes St_Str-8295.1 (Masonic Ave to Scott St).pdf",
+"modified": "2026-01-07T07:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d9c952739e08": {
+"path": "Striping Drawings/H_Streets/Hayes St/Hayes St_Str-8295.2 (Scott St to Laguna St).pdf",
+"modified": "2024-08-15T21:37:24+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2e56538e4895": {
+"path": "Striping Drawings/H_Streets/Hayes St/Hayes St_Str-8295.3 (Octavia St to Market St).pdf",
+"modified": "2024-11-20T07:30:31+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"c8d119df55ea": {
+"path": "Striping Drawings/H_Streets/Hazelwood Ave/Hazelwood Ave Str-8301 (Judson Ave to Monterey Blvd).pdf",
+"modified": "2024-12-20T07:30:42+00:00",
+"w": 1000,
+"h": 667,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2000
+},
+"4052d96b2a42": {
+"path": "Striping Drawings/H_Streets/Hazelwood Ave/Hazelwood Ave Str-8301.1 (Monterey Blvd to Yerba Buena Ave).pdf",
+"modified": "2024-08-15T21:37:35+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8766325faa92": {
+"path": "Striping Drawings/H_Streets/Hearst Ave/Hearst Ave_STR-7864 (Ridgewood St to Circular Ave)r11.pdf",
+"modified": "2026-09-02T06:30:42+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ca1d2b4e932d": {
+"path": "Striping Drawings/H_Streets/Henry Adams/Henry Adams_Str-7832 (15th St to Division St).pdf",
+"modified": "2024-08-15T21:37:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"eac5d88276bc": {
+"path": "Striping Drawings/H_Streets/Herbst Rd/Str-7624 (Herbst_Rd striping and parking).pdf",
+"modified": "2024-08-15T21:37:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"a228649ffaee": {
+"path": "Striping Drawings/H_Streets/Hermann St/HermannSt_Str-7842 (Church St to Webster St).pdf",
+"modified": "2025-10-28T06:30:26+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"cd9e3f9d9797": {
+"path": "Striping Drawings/H_Streets/Hernandez  Ave/Hernandez Ave_Str-8066 (Merced Ave to Woodside Ave).pdf",
+"modified": "2026-09-23T06:30:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"86c011ea11cd": {
+"path": "Striping Drawings/H_Streets/Hester Ave/Hester Ave_STR-8380 (Bayshore Blvd to Bayshore Blvd).pdf",
+"modified": "2024-12-20T07:30:42+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8f06b516a8e7": {
+"path": "Striping Drawings/H_Streets/Hickey Blvd/Hickey Blvd_str-2488 (Hickey & Hilton).pdf",
+"modified": "2024-08-15T21:37:27+00:00",
+"w": 1000,
+"h": 626,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1879
+},
+"997897b4f763": {
+"path": "Striping Drawings/H_Streets/Hickory St/Hickory St_ Str-8345 (Laguna St to Octavia Blvd).pdf",
+"modified": "2024-08-15T21:37:18+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"7bca9edb2cd0": {
+"path": "Striping Drawings/H_Streets/Hillcrest Rd/Hillcrest Rd_STR-8148 (Treasure Island to I-80).pdf",
+"modified": "2024-08-15T21:37:21+00:00",
+"w": 1000,
+"h": 672,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2015
+},
+"52893e14e31c": {
+"path": "Striping Drawings/H_Streets/Hillpoint Ave/Hillpoint Ave_Str-4042 (traffic Island).pdf",
+"modified": "2024-08-15T21:37:20+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"bba148ae1d62": {
+"path": "Striping Drawings/H_Streets/Hillpoint Ave/Hillpoint Ave_Str-5090 (traffic Island).pdf",
+"modified": "2024-08-15T21:37:14+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"efb23aec4199": {
+"path": "Striping Drawings/H_Streets/Hoff St/Str-7777_Hoff St (17th St to 16th St).pdf",
+"modified": "2024-08-15T21:37:34+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e85058f2e492": {
+"path": "Striping Drawings/H_Streets/Hoffman St/Hoffman St_Str-7885 (23rd St to Grand View Ave).pdf",
+"modified": "2024-08-15T21:37:13+00:00",
+"w": 1000,
+"h": 610,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1831
+},
+"053cd6bd6977": {
+"path": "Striping Drawings/H_Streets/Holladay Ave/Superceded Holladay_Str-6079 (at York).pdf",
+"modified": "2024-08-15T21:37:13+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"bf3cb9f2bd41": {
+"path": "Striping Drawings/H_Streets/Hollis St/Hollis St_Str-8162 (Ellis St to O'Farrell St).pdf",
+"modified": "2024-08-15T21:37:31+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"a139b6f3be5f": {
+"path": "Striping Drawings/H_Streets/Hollister Ave/Hollister Ave_STR-8198 (Third St to Hawes St).pdf",
+"modified": "2024-08-15T21:37:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"fc48c0137463": {
+"path": "Striping Drawings/H_Streets/Holloway Ave/Holloway Ave_STR-7845 (Junipero Serra to Bright Street).pdf",
+"modified": "2025-08-08T06:30:40+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e7625b5a33f1": {
+"path": "Striping Drawings/H_Streets/Holloway Ave/Holloway Ave_STR-7845.1 (Bright Street to Harold Street)r8.pdf",
+"modified": "2025-08-08T06:30:40+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"7dd19f4d74ba": {
+"path": "Striping Drawings/H_Streets/Holloway Ave/Holloway Ave_STR-7874.1 (19th Ave to Junipero Serra).pdf",
+"modified": "2026-04-28T06:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"80a4fcde6fed": {
+"path": "Striping Drawings/H_Streets/Holloway Ave/Holloway Ave_str-7895 (Font Blvd to 19th Ave).pdf",
+"modified": "2026-04-04T06:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8b87a6cc2218": {
+"path": "Striping Drawings/H_Streets/Homestead St/Homestead St_Str-8341 (25th St to 24th St).pdf",
+"modified": "2024-12-20T07:30:42+00:00",
+"w": 1000,
+"h": 667,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2001
+},
+"2a3a384bf5c4": {
+"path": "Striping Drawings/H_Streets/Howard St/Howard St_STR-7761 (South Van Ness Ave to 9th St)r21.pdf",
+"modified": "2026-02-04T07:30:47+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"04bcdbc03f25": {
+"path": "Striping Drawings/H_Streets/Howard St/Howard St_STR-7761.1 (8th St to 5th St).pdf",
+"modified": "2025-10-02T06:30:46+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ad571954e9de": {
+"path": "Striping Drawings/H_Streets/Howard St/Howard St_STR-7761.2 (5th St to 2nd St).pdf",
+"modified": "2026-01-03T07:36:48+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"1645e1b1033d": {
+"path": "Striping Drawings/H_Streets/Howard St/Howard St_STR-7761.3 (2nd St to the Embarcadero).pdf",
+"modified": "2025-12-05T07:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"fe9e130e9268": {
+"path": "Striping Drawings/H_Streets/Hudson Ave/Hudson Ave_STR-7966 (Toland St to Reul Ct).pdf",
+"modified": "2026-07-16T06:33:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"813618586980": {
+"path": "Striping Drawings/H_Streets/Hudson Ave/Hudson Ave_STR-7966.1 (Reuel Ct to Ingalls St).pdf",
+"modified": "2024-12-20T07:30:42+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"3c68e011427f": {
+"path": "Striping Drawings/H_Streets/Hugo St/Hugo St_STR-8478 (7th Ave to Arguello Blvd).pdf",
+"modified": "2026-07-10T06:30:31+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"cc6bc4d646c1": {
+"path": "Striping Drawings/H_Streets/Hunter's Point/Hunter's Point_Str-1739.1 (3rd St to Innes Ave).pdf",
+"modified": "2025-10-16T06:30:19+00:00",
+"w": 1000,
+"h": 635,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1904
+},
+"b6b41339ae70": {
+"path": "Striping Drawings/H_Streets/Hunter's Point/Hunter's Point_str-3037 (Gilman Ave to Jamestown).pdf",
+"modified": "2024-08-15T21:37:16+00:00",
+"w": 1000,
+"h": 628,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1884
+},
+"12d1e405c732": {
+"path": "Striping Drawings/H_Streets/Hunter's Point/Hunters Point Blvd_Str-8320 (Evans Ave to Innes Ave) r3.pdf",
+"modified": "2026-07-31T06:30:38+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"54c40b499b7f": {
+"path": "Striping Drawings/H_Streets/Hyde St/Hyde st _Str-5501 (California st to Beach st).pdf",
+"modified": "2025-11-01T06:30:56+00:00",
+"w": 1000,
+"h": 654,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1961
+},
+"34695bf635b3": {
+"path": "Striping Drawings/H_Streets/Hyde St/Hyde st_Str-8112 (Market St to O'Farrell St).pdf",
+"modified": "2026-09-16T06:30:38+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"6ae28cfc14fc": {
+"path": "Striping Drawings/H_Streets/Hyde St/Hyde St_Str-8112.1 (O'Farrell St to Sacramento St).pdf",
+"modified": "2026-09-16T06:30:38+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"92a899976d7f": {
+"path": "Striping Drawings/H_Streets/Hyde St/Hyde st_Str-8112.3 (Filbert St to Jefferson St)r8.pdf",
+"modified": "2026-07-21T06:30:36+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"57007e71cfbd": {
+"path": "Striping Drawings/I_Streets/Idora Ave/Idora Ave_STR-8461 (Garcia Ave to Woodside Ave).pdf",
+"modified": "2026-09-23T06:30:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"f5ebf5cb9b34": {
+"path": "Striping Drawings/I_Streets/Illinois st/Illinois St_STR-7880 (Cargo Way to 25th St)R.pdf",
+"modified": "2026-03-19T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"47beaf0e0cdc": {
+"path": "Striping Drawings/I_Streets/Illinois st/Illinois St_STR-7880.1 (25th St to 20th St).pdf",
+"modified": "2026-09-24T06:30:38+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"fc7868185cb8": {
+"path": "Striping Drawings/I_Streets/Illinois st/Illinois St_STR-7880.2 (20th St to 16th St).pdf",
+"modified": "2024-08-15T21:37:31+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"07c113b56262": {
+"path": "Striping Drawings/I_Streets/Illinois st/Illinois St_STR-8442 (16th St to Mariposa St).pdf",
+"modified": "2025-11-25T07:30:23+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ced7ed410c6b": {
+"path": "Striping Drawings/I_Streets/Indiana st/Indiana St_Str-7827 (Mariposa St to Tubbs St).pdf",
+"modified": "2024-10-19T06:30:56+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"44ae6f0db732": {
+"path": "Striping Drawings/I_Streets/Indiana st/Indiana St_Str-7827.1 (Tubbs St to Tular St).pdf",
+"modified": "2024-10-19T06:30:57+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"900d39d9417f": {
+"path": "Striping Drawings/I_Streets/Industrial st/Industrial St_Str-8313 (Bayshore blvd to Oakdale ave).pdf",
+"modified": "2024-12-24T07:30:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0fba064f443d": {
+"path": "Striping Drawings/I_Streets/Ingalls st/Ingalls St_STR-8336 (Jamestown Ave to Yosemite Ave).pdf",
+"modified": "2025-04-22T06:30:50+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0ad3ffb9a924": {
+"path": "Striping Drawings/I_Streets/Ingalls st/Ingalls St_STR-8336.1 (Yosemite Ave to Oakdalet Ave).pdf",
+"modified": "2025-11-04T07:30:41+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"722fb8f83751": {
+"path": "Striping Drawings/I_Streets/Ingalls st/Ingalls St_STR-8336.2 (Oakdale to Middlepoint).pdf",
+"modified": "2025-04-22T06:30:50+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2f0e6d575628": {
+"path": "Striping Drawings/I_Streets/Ingerson st/Ingerson Ave_STR-3038 (3rd St to Giants Dr).pdf",
+"modified": "2024-08-15T21:37:28+00:00",
+"w": 1000,
+"h": 659,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1978
+},
+"e63ca0373a98": {
+"path": "Striping Drawings/I_Streets/Innes Ave/Innes Ave_Str-2485 (At Fitch-Painted island).pdf",
+"modified": "2024-08-15T21:37:35+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"1d33feb73090": {
+"path": "Striping Drawings/I_Streets/Innes Ave/Innes Ave_Str-8321.1 (Middle Point Rd to Donahue St).pdf",
+"modified": "2025-08-01T06:30:35+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8c2a1893232c": {
+"path": "Striping Drawings/I_Streets/Innes Ave/Innes Ave_Str-8321.2 (Donahue St to Coleman St).pdf",
+"modified": "2026-09-02T06:30:42+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"81ae7573cdcf": {
+"path": "Striping Drawings/I_Streets/Iowa St/Iowa St_Str-8303 (25th St to 22nd St).pdf",
+"modified": "2024-08-15T21:37:16+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"4a1e190cd46e": {
+"path": "Striping Drawings/I_Streets/Irving st/Irving St_Str-2533 (Parking stall-16th to 15th).pdf",
+"modified": "2024-08-15T21:37:13+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e36e31c2dbea": {
+"path": "Striping Drawings/I_Streets/Irving st/Irving St_Str-3144 (14th to Funston).pdf",
+"modified": "2024-08-15T21:37:30+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"767dc9dbf58f": {
+"path": "Striping Drawings/I_Streets/Irving st/Irving st_str-7465.1 (19th Ave to 10th Ave).pdf",
+"modified": "2026-09-23T06:30:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"9e244cc350fd": {
+"path": "Striping Drawings/I_Streets/Irving st/Irving st_Str-7465.2 (9th Ave to Carl st).pdf",
+"modified": "2024-08-15T21:37:14+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"30937b7c9a9b": {
+"path": "Striping Drawings/I_Streets/Irving st/Irving St_Str-8239 (Great Highway to 48th Ave).pdf",
+"modified": "2025-07-01T06:30:41+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"78c453b53a5d": {
+"path": "Striping Drawings/I_Streets/Irving st/Irving St_Str-8239.1 (48th Ave to 39th Ave).pdf",
+"modified": "2026-07-15T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"59f08e38ea51": {
+"path": "Striping Drawings/I_Streets/Irving st/Irving St_Str-8239.2 (39th Ave to 29th Ave).pdf",
+"modified": "2025-10-09T06:30:28+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"71c8dad43197": {
+"path": "Striping Drawings/I_Streets/Irving st/Irving St_Str-8239.3 (29th Ave to 19th Ave)r3.pdf",
+"modified": "2026-01-07T07:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0152883a546e": {
+"path": "Striping Drawings/I_Streets/Irwin St/Irwin St_str-2124 (seventh to eigth Sts).pdf",
+"modified": "2024-12-24T07:30:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2bb60c70e688": {
+"path": "Striping Drawings/I_Streets/Islais creek/Islais creek_41,798_str-5563 (Traffic routing).pdf",
+"modified": "2024-08-15T21:37:29+00:00",
+"w": 1000,
+"h": 633,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1898
+},
+"aeda644d833f": {
+"path": "Striping Drawings/I_Streets/Islais creek/Islais creek_41,799_str-5563.1 (Traffic routing).pdf",
+"modified": "2024-08-15T21:37:30+00:00",
+"w": 1000,
+"h": 631,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1894
+},
+"ba3f54513d28": {
+"path": "Striping Drawings/I_Streets/Islais creek/Islais creek_41,800_str-5563.2 (Traffic routing).pdf",
+"modified": "2024-08-15T21:37:16+00:00",
+"w": 1000,
+"h": 631,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1892
+},
+"473e60f0940f": {
+"path": "Striping Drawings/I_Streets/Islais creek/Islais creek_41,801_str-5563.3 (Traffic routing).pdf",
+"modified": "2024-08-15T21:37:19+00:00",
+"w": 1000,
+"h": 631,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1892
+},
+"5a28d8e715cf": {
+"path": "Striping Drawings/I_Streets/Ivy St/Ivy St_STR-8135 (Webster St to Franklin St).pdf",
+"modified": "2025-08-31T06:30:41+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"66b231859739": {
+"path": "Striping Drawings/J_Streets/Jackson St/Jackson st_str-5503 (Hyde st to Powell st).pdf",
+"modified": "2024-08-15T21:37:30+00:00",
+"w": 1000,
+"h": 649,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1947
+},
+"f6bf1d865932": {
+"path": "Striping Drawings/J_Streets/Jackson St/Jackson St_STR-7634 (Hyde St to Laguna St).pdf",
+"modified": "2024-08-15T21:37:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"75c89ba6c8ed": {
+"path": "Striping Drawings/J_Streets/Jackson St/Jackson St_STR-7634.2 (Grant Ave to Davis St).pdf",
+"modified": "2026-03-06T07:30:40+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"f8e6a229ea47": {
+"path": "Striping Drawings/J_Streets/Jackson St/Jackson St_Str-8074 (Arguello Blvd to Laurel St).pdf",
+"modified": "2025-02-11T07:30:34+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"164f64796c99": {
+"path": "Striping Drawings/J_Streets/Jackson St/Jackson st_Str-8074.1 (Laurel St to Scott St).pdf",
+"modified": "2026-07-08T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0150bd59486f": {
+"path": "Striping Drawings/J_Streets/Jamestown Ave/Jamestown Ave_Str-8226 (Salinas Ave to Corona St).pdf",
+"modified": "2024-12-25T07:30:36+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"5f4b014a2025": {
+"path": "Striping Drawings/J_Streets/Jamestown Ave/Jamestown_str-3039.1 (Salinas Bayshore & Hunter's Point).pdf",
+"modified": "2024-08-15T21:37:20+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1940
+},
+"2e2162f8fc2b": {
+"path": "Striping Drawings/J_Streets/Jarboe Ave/Jarboe Ave_Str-8514 (Moultrie St to Bradford St).pdf",
+"modified": "2025-12-09T07:30:44+00:00",
+"w": 1000,
+"h": 669,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2007
+},
+"bc661d3a2008": {
+"path": "Striping Drawings/J_Streets/Jefferson St/Jefferson st_Str-8521 (Larkin St to Powell St).pdf",
+"modified": "2026-06-11T06:30:44+00:00",
+"w": 1000,
+"h": 679,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2036
+},
+"b0652a2f4c58": {
+"path": "Striping Drawings/J_Streets/Jennings St/Jennings St_Str-8114 (Cargo Way to Amador St).pdf",
+"modified": "2024-08-15T21:37:25+00:00",
+"w": 1000,
+"h": 672,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2015
+},
+"ad159d3a512c": {
+"path": "Striping Drawings/J_Streets/Jennings St/Jennings St_Str-8228 (Meade Ave to Donner Ave).pdf",
+"modified": "2024-08-15T21:37:34+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"a02fe05554df": {
+"path": "Striping Drawings/J_Streets/Jennings St/Jennings St_Str-8228.1 (Donner Ave to Shafter Ave).pdf",
+"modified": "2024-08-15T21:37:30+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"9bc5b33dbc28": {
+"path": "Striping Drawings/J_Streets/Jerrold Ave/Jerrold Ave_Str-7801 (Bayshore Blvd to Rankin St)r10.pdf",
+"modified": "2025-09-23T06:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ce61935023d9": {
+"path": "Striping Drawings/J_Streets/Jerrold Ave/Jerrold Ave_Str-7801.1 (Rankin St to Mendell St)r8.pdf",
+"modified": "2026-07-14T06:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"9bfa150f9c0e": {
+"path": "Striping Drawings/J_Streets/Jerrold Ave/Jerrold Ave_Str-7801.2 (Northridge Rd to Coleman St).pdf",
+"modified": "2024-08-15T21:37:14+00:00",
+"w": 1000,
+"h": 672,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2016
+},
+"1afee64d1864": {
+"path": "Striping Drawings/J_Streets/Jersey St/Jersey St_Str-8002 (Douglass St to Vicksburg St).pdf",
+"modified": "2024-10-25T06:30:24+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0e23cd5c6be5": {
+"path": "Striping Drawings/J_Streets/Jersey St/Jersey St_Str-8002.1 (Vicksburg St to Dolores St)r3.pdf",
+"modified": "2025-08-30T06:33:17+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0ac2154316a4": {
+"path": "Striping Drawings/J_Streets/Jessie St/Jessie St_Str-8185 (10th St to 9th St).pdf",
+"modified": "2024-08-15T21:37:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e4e5e5a3c5b9": {
+"path": "Striping Drawings/J_Streets/Jessie St/Jessie St_Str-8185.1 (6th St to 4th St).pdf",
+"modified": "2024-12-25T07:30:36+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"92da5bdd967d": {
+"path": "Striping Drawings/J_Streets/Jessie St/Jessie St_Str-8185.2 (3rd St to 1st St).pdf",
+"modified": "2024-08-15T21:37:17+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"27571cebf93f": {
+"path": "Striping Drawings/J_Streets/John F Shelley Dr/John F. Shelley Dr STR-8261 (John F Shelly Drive (West to East).pdf",
+"modified": "2024-08-15T21:37:32+00:00",
+"w": 1000,
+"h": 675,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2025
+},
+"bdd02e720496": {
+"path": "Striping Drawings/J_Streets/John F Shelley Dr/John F. Shelley Dr STR-8261.1 (John F Shelly Drive (West to East).pdf",
+"modified": "2024-08-15T21:37:26+00:00",
+"w": 1000,
+"h": 676,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2029
+},
+"0426ee49ea70": {
+"path": "Striping Drawings/J_Streets/John F Shelley Dr/John F. Shelley Dr STR-8261.2 (John F Shelly Drive (West to East).pdf",
+"modified": "2024-08-15T21:37:15+00:00",
+"w": 1000,
+"h": 677,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2032
+},
+"63fc777ebb67": {
+"path": "Striping Drawings/J_Streets/John F Shelley Dr/John F. Shelley Dr STR-8261.3 (John F Shelly Drive (West to East).pdf",
+"modified": "2024-08-15T21:37:28+00:00",
+"w": 1000,
+"h": 677,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2031
+},
+"c35d7d545a10": {
+"path": "Striping Drawings/J_Streets/John Muir Dr/John Muir Dr_str-7921 (Skyline blvd to Lake Merced blvd).pdf",
+"modified": "2024-08-15T21:37:28+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"144d707d303b": {
+"path": "Striping Drawings/J_Streets/John Muir Dr/John Muir Dr_str-7921.1 (Skyline blvd to Lake Merced blvd).pdf",
+"modified": "2024-08-15T21:37:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"6162599b4d49": {
+"path": "Striping Drawings/J_Streets/Joice St/Joice St_STR 8385 (Pine St to Clay St).pdf",
+"modified": "2024-08-15T21:37:17+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2003
+},
+"e300dcd6b4de": {
+"path": "Striping Drawings/J_Streets/Jones St/Jones St_str-4546 (Union St to Green St) rev0_see Joce Suhaimi-JChimento corridor file 2024-05-16.pdf",
+"modified": "2025-12-11T07:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"5222049dbe44": {
+"path": "Striping Drawings/J_Streets/Jones St/Jones St_str-7920 (California St to Market St).pdf",
+"modified": "2026-03-27T06:30:48+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"995f9da9449e": {
+"path": "Striping Drawings/J_Streets/Joost Ave/Joost Ave_Str-7865 (Hazelwood Ave to Detroit St)r3.pdf",
+"modified": "2025-11-05T07:30:40+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"064565e6c469": {
+"path": "Striping Drawings/J_Streets/Joost Ave/Joost Ave_STR-7865.1 (Detroit St to Monterey Blvd).pdf",
+"modified": "2026-01-06T07:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"72bc7e9a8644": {
+"path": "Striping Drawings/J_Streets/Jordan Ave/Jordan Ave_Str-8181 (Geary Blvd to California St).pdf",
+"modified": "2024-08-15T21:37:26+00:00",
+"w": 1000,
+"h": 673,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2019
+},
+"36a34c20fc51": {
+"path": "Striping Drawings/J_Streets/Juanita Way/Juanita Way_ Str-8417.1 (Rex Ave to Teresita Blvd).pdf",
+"modified": "2024-08-15T21:37:19+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d22059226751": {
+"path": "Striping Drawings/J_Streets/Judah St/Judah St_STR-8250 (Great High Way to 41st Ave).pdf",
+"modified": "2025-06-27T06:30:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"724eddee5f98": {
+"path": "Striping Drawings/J_Streets/Judah St/Judah St_STR-8250.1 (41st Ave to 32nd Ave).pdf",
+"modified": "2026-03-19T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d2ab604e0494": {
+"path": "Striping Drawings/J_Streets/Judah St/Judah St_STR-8250.2 (32nd Ave to 23rd Ave)r4.pdf",
+"modified": "2026-09-22T06:30:26+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"4a43c634a9b3": {
+"path": "Striping Drawings/J_Streets/Judah St/Judah St_STR-8250.3 (23rd Ave to 14th Ave).pdf",
+"modified": "2026-09-04T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"66e0a30d96d6": {
+"path": "Striping Drawings/J_Streets/Judah St/Judah St_STR-8250.4 (Funston Ave to 5th Ave).pdf",
+"modified": "2026-02-06T07:30:42+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"c1363dd6b1e8": {
+"path": "Striping Drawings/J_Streets/Judson Ave/Judson Ave_STR-7887 (Phelan Ave to Circular Ave).pdf",
+"modified": "2026-03-13T06:30:33+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"4f75fd73e007": {
+"path": "Striping Drawings/J_Streets/Jules Ave/Jules Ave_Str-8435 (Lakeview Ave to Ocean Ace).pdf",
+"modified": "2024-12-25T07:30:36+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2004
+},
+"f53663a3ab89": {
+"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455 (19th Ave to Winston Dr).pdf",
+"modified": "2024-09-10T06:30:34+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2004
+},
+"d32420798ac7": {
+"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455.1 (Winston Dr to Ocean Ave).pdf",
+"modified": "2025-08-31T06:30:41+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"c6b924695d2c": {
+"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455.2 (Ocean Ave to Saint Francis Blvd).pdf",
+"modified": "2024-09-10T06:30:34+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2004
+},
+"f4b5da95c626": {
+"path": "Striping Drawings/J_Streets/Justin Dr/Str-5339 (Justin Dr_College ave to Genebern way).pdf",
+"modified": "2024-08-15T21:37:15+00:00",
+"w": 1000,
+"h": 622,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1866
+},
+"99aa197c9489": {
+"path": "Striping Drawings/K_Streets/Kansas st/Kansas St_Str-7629 (20th St to 15th St).pdf",
+"modified": "2026-02-11T07:30:33+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"b974e613e07a": {
+"path": "Striping Drawings/K_Streets/Kansas st/Kansas St_Str-7764 (26th st to 23rd st).pdf",
+"modified": "2024-08-15T21:37:23+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8ec5f99e23c4": {
+"path": "Striping Drawings/K_Streets/Kearny st/Kearny st_str-7127 (North Point st to Bay st).pdf",
+"modified": "2024-08-15T21:37:22+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"4439e84dfda8": {
+"path": "Striping Drawings/K_Streets/Kearny st/Kearny St_STR-7928 (Market St to Broadway St).pdf",
+"modified": "2026-03-19T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d3f402106fe8": {
+"path": "Striping Drawings/K_Streets/Keith St/Keith St_STR-8202 (Carroll Ave to Revere Ave).pdf",
+"modified": "2024-08-15T21:37:36+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2bf7f497b882": {
+"path": "Striping Drawings/K_Streets/Keith St/Keith St_STR-8202.1 (Revere Ave to Newcomb Ave).pdf",
+"modified": "2025-08-06T06:30:17+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"12f0676808c9": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-7935.0 (Cross Over Dr to Stow Lake Dr).pdf",
+"modified": "2025-01-08T07:30:19+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2969bed74009": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-7935.1 (Stow Lake Dr to 10th Ave).pdf",
+"modified": "2025-01-08T07:30:20+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"66bfa2623fce": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-7935.2 (10th Ave to 6th Ave).pdf",
+"modified": "2025-01-08T07:30:20+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"57e9fec81485": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-7935.3 (6th Ave to Bowling Green Dr).pdf",
+"modified": "2025-01-08T07:30:19+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"70c0b252b30e": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-7935.4 (Bowling Green Dr to Stanyan St).pdf",
+"modified": "2026-06-12T06:30:22+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"6905907f8f58": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-8173 (Great Highway to Bernice Rodgers Way).pdf",
+"modified": "2025-09-25T06:30:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8b9ea7da77d8": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-8173.1 (Bernice Rodgers Way to 36th Ave).pdf",
+"modified": "2024-08-15T21:37:18+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"6a86fe2ca0a9": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-8173.2 (36th Ave to Marx Meadow Dr).pdf",
+"modified": "2024-08-15T21:37:24+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"69bd10318dd4": {
+"path": "Striping Drawings/K_Streets/Kennedy JFDr/John F Kennedy Dr_STR-8173.3 (Marx Meadow Dr to Tranverse Dr).pdf",
+"modified": "2024-08-15T21:37:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e96231d58f76": {
+"path": "Striping Drawings/K_Streets/Kensington Way/Kensington Way _STR-8068 (Dewey Blvd to Portola Drive).pdf",
+"modified": "2025-05-21T06:30:24+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ac9879016130": {
+"path": "Striping Drawings/K_Streets/Keystone Way/Keystone Way_Str-8503 (Ocean Ave to Kenwood Way).pdf",
+"modified": "2026-10-01T06:30:39+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"a95dc0aaae25": {
+"path": "Striping Drawings/K_Streets/Kezar Dr/Kezar Dr_Str-8343 (Lincolnway to Stanyan).pdf",
+"modified": "2024-08-15T21:37:29+00:00",
+"w": 1000,
+"h": 689,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2067
+},
+"aa531f97e59a": {
+"path": "Striping Drawings/K_Streets/King St/King St_Str-7616 (Townsend to 2nd).pdf",
+"modified": "2026-07-10T06:30:31+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"7783efa4c5d8": {
+"path": "Striping Drawings/K_Streets/King St/King St_Str-7616.1 (2nd St to 5th St).pdf",
+"modified": "2026-07-08T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"cc727809107a": {
+"path": "Striping Drawings/K_Streets/King-MLK/Martin Luther King_Str-7820 (25th Ave to Crossover Dr).pdf",
+"modified": "2026-07-07T06:30:42+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"fdff31c9d5d9": {
+"path": "Striping Drawings/K_Streets/King-MLK/Martin Luther King_Str-7820.1 (Crossover Dr to Concourse Dr).pdf",
+"modified": "2026-01-01T07:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2dcd3df2ddcc": {
+"path": "Striping Drawings/K_Streets/King-MLK/Martin Luther King_Str-7820.2 (Concourse Dr to 9th Ave; 9th Ave to Kezar Dr).pdf",
+"modified": "2026-01-01T07:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"f1cdc5cdc762": {
+"path": "Striping Drawings/K_Streets/King-MLK/Martin Luther King_Str-7976 (to Metson Road).pdf",
+"modified": "2026-01-01T07:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"698ffa27ccb8": {
+"path": "Striping Drawings/K_Streets/King-MLK/Martin Luther King_Str-8288 (Lincoln Way to Bernice Rodgers Way).pdf",
+"modified": "2026-01-01T07:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0097ee820c7b": {
+"path": "Striping Drawings/K_Streets/King-MLK/Martin Luther King_Str-8288.1 (Bernice Rodgers Way to Sunset Blvd).pdf",
+"modified": "2026-01-01T07:30:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"b23cab0fa8d0": {
+"path": "Striping Drawings/K_Streets/Kingston St/Kingston Ave_STR-5568 (Mission St to San Jose Ave).pdf",
+"modified": "2026-02-11T07:30:32+00:00",
+"w": 1000,
+"h": 707,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2121
+},
+"6984fa3f59a4": {
+"path": "Striping Drawings/K_Streets/Kirkham st/Kirkham St_Str-7803 (12th Ave to 5th Ave).pdf",
+"modified": "2026-09-20T06:30:42+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"68d34d6cb1f7": {
+"path": "Striping Drawings/K_Streets/Kirkham st/Kirkham St_Str-7803.1 (22nd Ave to Funston Ave).pdf",
+"modified": "2026-03-19T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"41cb505f7bfb": {
+"path": "Striping Drawings/K_Streets/Kirkham st/Kirkham St_Str-7803.2 (32nd Ave to 22nd Ave).pdf",
+"modified": "2026-03-19T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ab6c11aad556": {
+"path": "Striping Drawings/K_Streets/Kirkham st/Kirkham St_Str-7803.3 (41st Ave to 32nd Ave).pdf",
+"modified": "2026-03-19T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0221094651fb": {
+"path": "Striping Drawings/K_Streets/Kirkham st/Kirkham St_Str-7803.4 (Great Highway to 41St Ave).pdf",
+"modified": "2026-03-19T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"30d34f1aae0f": {
+"path": "Striping Drawings/K_Streets/Kiska Rd/Str-7748_Kiska Rd (Ingalls to Dormitory Rd).pdf",
+"modified": "2024-08-15T21:37:22+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d1bc277923b5": {
+"path": "Striping Drawings/L_Streets/La Playa/La Playa St_Str-7997 (Fulton St to Balboa St).pdf",
+"modified": "2024-08-15T21:37:21+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"9b194d0ded64": {
+"path": "Striping Drawings/L_Streets/La Salle Ave/La Salle Ave_Str-8458 (Newcomb Ave to Ingalls Ave).pdf",
+"modified": "2024-10-02T06:30:29+00:00",
+"w": 1000,
+"h": 612,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1837
+},
+"4f14d33c6dc1": {
+"path": "Striping Drawings/L_Streets/Laguna Honda blvd/Laguna Honda Blvd_Str-7608.1 (Clarendon Ave to 7th Ave).pdf",
+"modified": "2024-08-15T21:37:32+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"31647b674478": {
+"path": "Striping Drawings/L_Streets/Laguna Honda blvd/Laguna Honda Blvd_Str-7608.2 (Woodside Ave to Clarendon Ave).pdf",
+"modified": "2026-07-17T06:30:36+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ef053029b3ae": {
+"path": "Striping Drawings/L_Streets/Laguna Honda blvd/Laguna Honda Blvd_Str-7608.3 (Portola Drive to Vasquez Ave).pdf",
+"modified": "2026-09-02T06:30:42+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"925130f8fa9a": {
+"path": "Striping Drawings/L_Streets/Laguna Honda blvd/Str-6149 (Lguna Honda School_parking lot).pdf",
+"modified": "2024-08-15T21:37:26+00:00",
+"w": 1000,
+"h": 598,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1795
+},
+"b807699fa574": {
+"path": "Striping Drawings/L_Streets/Laguna st/Laguna st_str-6351 (Bay st to Marina blvd).pdf",
+"modified": "2024-08-15T21:37:30+00:00",
+"w": 1000,
+"h": 637,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1910
+},
+"1546f974489d": {
+"path": "Striping Drawings/L_Streets/Laguna st/Laguna st_Str-7668 (Fell St to Market st)R19.pdf",
+"modified": "2026-03-19T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"b38f7affff5e": {
+"path": "Striping Drawings/L_Streets/Laguna st/Laguna St_Str-7837 (Linden St to Golden Gate Ave).pdf",
+"modified": "2026-01-21T07:30:26+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"bf92e31f55b3": {
+"path": "Striping Drawings/L_Streets/Laguna st/Laguna St_STR-7837.1 (Golden Gate Ave to Bush St).pdf",
+"modified": "2026-05-20T06:30:30+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"db991156fd72": {
+"path": "Striping Drawings/L_Streets/Lagunitas Dr/Lagunitas Dr_STR-8444 (Ocean Ave to Sloat Blvd).pdf",
+"modified": "2024-08-15T21:37:14+00:00",
+"w": 1000,
+"h": 666,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1999
+},
+"bbe85d89b1c6": {
+"path": "Striping Drawings/L_Streets/Lake Merced Blvd/Lake Merced Blvd_STR-2181 (Herbst rd to Sunset blvd) rev5_see Mark Manalo corridor file 2022-03-24.pdf",
+"modified": "2025-09-25T06:30:28+00:00",
+"w": 1000,
+"h": 577,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1730
+},
+"ce087fe12209": {
+"path": "Striping Drawings/L_Streets/Lake Merced Blvd/Lake Merced Blvd_STR-3666 (Sunset Blvd to Winston Dr) Rev10_see Mark Manalo corridor file 2025-09-19.pdf",
+"modified": "2025-09-20T06:30:44+00:00",
+"w": 1000,
+"h": 622,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1865
+},
+"64e83d2a99ed": {
+"path": "Striping Drawings/L_Streets/Lake Merced Blvd/Lake Merced Blvd_STR-5759 (Sunset Blvd to John Daly Blvd) rev6.pdf",
+"modified": "2025-09-25T06:30:29+00:00",
+"w": 1000,
+"h": 639,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1917
+},
+"d214c1e60843": {
+"path": "Striping Drawings/L_Streets/Lake Merced Blvd/Lake Merced Blvd_STR-7628 (John Muir to Brotherhood Way)rev10_see Mark Manalo corridor file 2022-03-24.pdf",
+"modified": "2025-09-25T06:30:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"1bb8c65466b9": {
+"path": "Striping Drawings/L_Streets/Lake Merced Blvd/Lake Merced Blvd_STR-7628.1 (Brotherhood way to Font) rev4_see Mark Manalo corridor file.pdf",
+"modified": "2025-09-25T06:30:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2ff24f8de441": {
+"path": "Striping Drawings/L_Streets/Lake Merced Blvd/Lake Merced Blvd_STR-7628.2 (Font St to Winston Dr.)rev5_see Mark Manalo corridor file 2022-03-24.pdf",
+"modified": "2025-09-25T06:30:29+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"59daa3823140": {
+"path": "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826 (El Camino Del Mar to 22nd Ave).pdf",
+"modified": "2025-01-14T07:30:35+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8e4f3d99eb38": {
+"path": "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826.1 (22nd Ave to Funston Ave).pdf",
+"modified": "2025-01-14T07:30:36+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"321a175c94bf": {
+"path": "Striping Drawings/L_Streets/Lake st/Lake st_str-7826.2 (Funston Ave to 4th Ave).pdf",
+"modified": "2025-01-14T07:30:36+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"627299277204": {
+"path": "Striping Drawings/L_Streets/Lake st/Lake st_str-7826.3 (4th Ave to Arguello Blvd)r6.pdf",
+"modified": "2026-07-25T06:30:54+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d16b27a3e80c": {
+"path": "Striping Drawings/L_Streets/Lakeview Ave/Lakeview Ave_Str-8433.1 (Summit Ave to San Jose Ave).pdf",
+"modified": "2024-08-15T21:37:31+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2003
+},
+"e5402dccb9ea": {
+"path": "Striping Drawings/L_Streets/Landers St/Landers St_Str-8233 (16th St to 14th St).pdf",
+"modified": "2025-08-31T06:30:41+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"dd622b1fe95f": {
+"path": "Striping Drawings/L_Streets/Lane St/Lane St_Str-8021 (Bayshore Blvd to McKinnon St).pdf",
+"modified": "2025-09-10T06:30:23+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"efb77de575b4": {
+"path": "Striping Drawings/L_Streets/Larkin st/Larkin St_Str-8019 (Polk St to Francisco St).pdf",
+"modified": "2026-07-15T06:30:26+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"efcdbe5d4422": {
+"path": "Striping Drawings/L_Streets/Larkin st/Larkin St_STR-8502 (Market St to O'Farrell St).pdf",
+"modified": "2026-07-15T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"9c111478571e": {
+"path": "Striping Drawings/L_Streets/Larkin st/Larkin St_STR-8502.1 (O'Farrell St to Washington St).pdf",
+"modified": "2026-06-23T06:30:23+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ca5798460d2f": {
+"path": "Striping Drawings/L_Streets/Larkin st/Str-6480_Larkin St (Bay St to Beach St).pdf",
+"modified": "2025-11-18T07:30:23+00:00",
+"w": 1000,
+"h": 688,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2064
+},
+"7596f437a4ab": {
+"path": "Striping Drawings/L_Streets/Latona St/Latona St_Str-8044 (Thornton Ave to Bayview St).pdf",
+"modified": "2024-08-15T21:37:26+00:00",
+"w": 1000,
+"h": 615,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1844
+},
+"9da24ab3ef67": {
+"path": "Striping Drawings/L_Streets/Laurel St/Laurel St_Str-8182 (Lupine St to Pacific Ave).pdf",
+"modified": "2026-04-10T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"b499d610fcb1": {
+"path": "Striping Drawings/L_Streets/Lawton St/Lawton st_str-7730 (Great highway to 40th Ave).pdf",
+"modified": "2026-03-08T07:30:48+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"4d320441f630": {
+"path": "Striping Drawings/L_Streets/Lawton St/Lawton st_str-7730.1 (40th Ave to 30th Ave).pdf",
+"modified": "2026-07-24T06:30:48+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ab691ffaa12c": {
+"path": "Striping Drawings/L_Streets/Lawton St/Lawton St_str-7730.2 (30th Ave to 16th Ave).pdf",
+"modified": "2026-07-24T06:30:48+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"624b1fa22872": {
+"path": "Striping Drawings/L_Streets/Lawton St/Lawton St_Str-7730.3 (16th Ave to 11th Ave).pdf",
+"modified": "2026-05-27T06:30:27+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2005
+},
+"9bfe444661d0": {
+"path": "Striping Drawings/L_Streets/Lawton St/Lawton St_Str-7730.4 (11th Ave to Warren Dr).pdf",
+"modified": "2026-05-27T06:30:27+00:00",
+"w": 1000,
+"h": 682,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2046
+},
+"a7d16494b5b4": {
+"path": "Striping Drawings/L_Streets/Leavenworth St/Leavenworth st_str-4562 (Beach st to Jefferson st)r2_see Brian Donahoe 2026-07-20.pdf",
+"modified": "2026-07-21T06:30:35+00:00",
+"w": 1000,
+"h": 625,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1874
+},
+"7008607281da": {
+"path": "Striping Drawings/L_Streets/Leavenworth St/Leavenworth st_str-4804 (Greenwich to Filbert) .pdf",
+"modified": "2024-08-15T21:37:31+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0ba98addbf60": {
+"path": "Striping Drawings/L_Streets/Leavenworth St/Leavenworth st_str-5457 (Lombard St to Chestnut St).pdf",
+"modified": "2024-08-15T21:37:34+00:00",
+"w": 1000,
+"h": 651,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1952
 }
 }
