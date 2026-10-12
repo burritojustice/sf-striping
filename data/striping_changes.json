@@ -37,5 +37,100 @@
     "now": "2026-10-06T06:33:48+00:00"
    }
   ]
+ },
+ {
+  "run": "2026-10-12T21:45:29+00:00",
+  "added": [],
+  "removed": [],
+  "renamed": [
+   {
+    "id": "8559",
+    "from": [
+     "Striping Drawings/W_Streets/Waterville St & Conkling St/Waterville St & Conkling St STR-8559 (Silver Ave to Cul De Sac).pdf"
+    ],
+    "to": "Striping Drawings/C_Streets/Conkling St - See Waterville St/Waterville St & Conkling St STR-8559 (Silver Ave to Cul De Sac).pdf"
+   },
+   {
+    "id": "7873",
+    "from": [
+     "Striping Drawings/L_Streets/Lyell st/Lyell St_Str-7873 (Alemany Blvd to Bosworth St)r8.pdf"
+    ],
+    "to": "Striping Drawings/L_Streets/Lyell st/Lyell St_Str-7873 (Alemany Blvd to Bosworth St).pdf"
+   },
+   {
+    "id": "6280",
+    "from": [
+     "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-6280 (20th St to Turner St).pdf"
+    ],
+    "to": "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-6280 (20th St to Turner St) SeE Jonathan Wong 2026-10-07.pdf"
+   },
+   {
+    "id": "7656.3",
+    "from": [
+     "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.3 (Plymouth Ave to Geneva Ave)r18.pdf"
+    ],
+    "to": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.3 (Plymouth Ave to Geneva Ave).pdf"
+   },
+   {
+    "id": "8281",
+    "from": [
+     "Striping Drawings/T_Streets/Townsend St/1-Townsend St_Str-8281 (Division St to 4th St)R.pdf"
+    ],
+    "to": "Striping Drawings/T_Streets/Townsend St/1-Townsend St_Str-8281 (Division St to 4th St).pdf"
+   },
+   {
+    "id": "7758.2",
+    "from": [
+     "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.2 (Divisadero St to Laguna St).pdf"
+    ],
+    "to": "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.2 (Divisadero St to Laguna St)R.pdf"
+   },
+   {
+    "id": "8218.2",
+    "from": [
+     "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.2 (21st St to 16th St) r6.pdf"
+    ],
+    "to": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.2 (21st St to 16th St).pdf"
+   },
+   {
+    "id": "8559",
+    "from": [
+     "Striping Drawings/W_Streets/Waterville St & Conkling St/Waterville St & Conkling St STR-8559 (Silver Ave to Cul De Sac).pdf"
+    ],
+    "to": "Striping Drawings/W_Streets/Waterville St & Conkling St/Waterville St & Conkling St STR-8559 (Silver Ave to Cul De Sac) See Waterville St.pdf"
+   }
+  ],
+  "updated": [
+   {
+    "path": "Striping Drawings/02_Numbered_Street/7th st/7th St_Str-8273 (Townsend St to 16th St).pdf",
+    "was": "2026-08-11T06:33:38+00:00",
+    "now": "2026-10-07T06:30:23+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/Carroll Ave/Carroll Ave_STR-7677 (3rd st to Fitch st).pdf",
+    "was": "2026-07-16T06:33:44+00:00",
+    "now": "2026-10-10T06:31:04+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/Clay st/Clay St_Str-7848.1 (Walnut St to Pierce St).pdf",
+    "was": "2026-05-14T06:30:32+00:00",
+    "now": "2026-10-07T06:30:22+00:00"
+   },
+   {
+    "path": "Striping Drawings/S_Streets/Sacramento st/Sacramento st_Str-2514 (Drumm St to Kearny St).pdf",
+    "was": "2026-04-28T06:30:44+00:00",
+    "now": "2026-10-08T06:30:30+00:00"
+   },
+   {
+    "path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.1 (26th St to 21st St).pdf",
+    "was": "2026-02-26T07:30:36+00:00",
+    "now": "2026-10-09T06:30:34+00:00"
+   },
+   {
+    "path": "Striping Drawings/W_Streets/Webster st/Webster St_Str-8294.1 (Fulton St to Sutter St).pdf",
+    "was": "2026-06-23T06:30:23+00:00",
+    "now": "2026-10-09T06:30:34+00:00"
+   }
+  ]
  }
 ]
