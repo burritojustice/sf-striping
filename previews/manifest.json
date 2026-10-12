@@ -2179,7 +2179,7 @@
 },
 "24685ec7a9f6": {
 "path": "Striping Drawings/02_Numbered_Street/7th st/7th St_Str-8273 (Townsend St to 16th St).pdf",
-"modified": "2026-08-11T06:33:38+00:00",
+"modified": "2026-10-07T06:30:23+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -4033,7 +4033,7 @@
 },
 "d91b425a2476": {
 "path": "Striping Drawings/C_Streets/Carroll Ave/Carroll Ave_STR-7677 (3rd st to Fitch st).pdf",
-"modified": "2026-07-16T06:33:44+00:00",
+"modified": "2026-10-10T06:31:04+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -4501,7 +4501,7 @@
 },
 "b75ebc9e29dd": {
 "path": "Striping Drawings/C_Streets/Clay st/Clay St_Str-7848.1 (Walnut St to Pierce St).pdf",
-"modified": "2026-05-14T06:30:32+00:00",
+"modified": "2026-10-07T06:30:22+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -9395,15 +9395,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"458a20f48c1a": {
-"path": "Striping Drawings/L_Streets/Lyell st/Lyell St_Str-7873 (Alemany Blvd to Bosworth St)r8.pdf",
-"modified": "2026-09-05T06:33:54+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "e62ddd41585c": {
 "path": "Striping Drawings/L_Streets/Lyon st/Lyon St_ STR-8078 (Green St to Bay St).pdf",
 "modified": "2025-09-19T06:30:44+00:00",
@@ -10196,15 +10187,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"8e6cee7ac592": {
-"path": "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-6280 (20th St to Turner St).pdf",
-"modified": "2024-12-04T07:30:47+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "c912904f126a": {
 "path": "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-8305 (23rd St to Turner Terrace).pdf",
 "modified": "2024-12-04T07:30:47+00:00",
@@ -10811,15 +10793,6 @@
 "df761ccc870c": {
 "path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.2 (Keystone Way to Plymouth Ave).pdf",
 "modified": "2026-01-03T07:36:48+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"a7a82050d64c": {
-"path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.3 (Plymouth Ave to Geneva Ave)r18.pdf",
-"modified": "2026-09-24T06:30:38+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -12160,12 +12133,12 @@
 },
 "c0bce8d2c0d9": {
 "path": "Striping Drawings/S_Streets/Sacramento st/Sacramento st_Str-2514 (Drumm St to Kearny St).pdf",
-"modified": "2026-04-28T06:30:44+00:00",
+"modified": "2026-10-08T06:30:30+00:00",
 "w": 1000,
-"h": 638,
+"h": 612,
 "hi": 3000,
 "hi_w": 3000,
-"hi_h": 1914
+"hi_h": 1835
 },
 "f031aad95ab1": {
 "path": "Striping Drawings/S_Streets/Sadowa St/Sadowa St_Str-8393 (Orizaba St to San Jose Ave) rev1.pdf",
@@ -13535,15 +13508,6 @@
 "hi_w": 3000,
 "hi_h": 1921
 },
-"26f80b7ab223": {
-"path": "Striping Drawings/T_Streets/Townsend St/1-Townsend St_Str-8281 (Division St to 4th St)R.pdf",
-"modified": "2024-10-05T06:30:47+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "394283c10288": {
 "path": "Striping Drawings/T_Streets/Townsend St/1-Townsend St_Str-8281.1 (4th St to Colin P Kelly).pdf",
 "modified": "2026-09-16T06:30:38+00:00",
@@ -13646,15 +13610,6 @@
 "2acdef55bd71": {
 "path": "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.1 (Tamalpais Terrace to Divisadero St).pdf",
 "modified": "2026-06-13T06:30:47+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"1a4f014e8f3c": {
-"path": "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.2 (Divisadero St to Laguna St).pdf",
-"modified": "2024-11-28T07:30:24+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -13870,16 +13825,7 @@
 },
 "7b2d8deb0e56": {
 "path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.1 (26th St to 21st St).pdf",
-"modified": "2026-02-26T07:30:36+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"31fc18bca957": {
-"path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.2 (21st St to 16th St) r6.pdf",
-"modified": "2026-02-25T07:30:33+00:00",
+"modified": "2026-10-09T06:30:34+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14219,15 +14165,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"9e7589314c0d": {
-"path": "Striping Drawings/W_Streets/Waterville St & Conkling St/Waterville St & Conkling St STR-8559 (Silver Ave to Cul De Sac).pdf",
-"modified": "2026-08-13T06:30:44+00:00",
-"w": 1000,
-"h": 668,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 2004
-},
 "12d73bb62eb9": {
 "path": "Striping Drawings/W_Streets/Wawona st/Wawona St_Str-7878 (Great High Way to  39th Ave).pdf",
 "modified": "2025-06-11T06:30:21+00:00",
@@ -14275,7 +14212,7 @@
 },
 "4accb7c5fd38": {
 "path": "Striping Drawings/W_Streets/Webster st/Webster St_Str-8294.1 (Fulton St to Sutter St).pdf",
-"modified": "2026-06-23T06:30:23+00:00",
+"modified": "2026-10-09T06:30:34+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14578,5 +14515,68 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1971
+},
+"6f8b949ee253": {
+"path": "Striping Drawings/C_Streets/Conkling St - See Waterville St/Waterville St & Conkling St STR-8559 (Silver Ave to Cul De Sac).pdf",
+"modified": "2026-10-10T06:31:04+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2004
+},
+"299e76359911": {
+"path": "Striping Drawings/L_Streets/Lyell st/Lyell St_Str-7873 (Alemany Blvd to Bosworth St).pdf",
+"modified": "2026-10-08T06:30:30+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"a1fb2b6f6ca3": {
+"path": "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-6280 (20th St to Turner St) SeE Jonathan Wong 2026-10-07.pdf",
+"modified": "2026-10-08T06:30:30+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"627413a8b179": {
+"path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.3 (Plymouth Ave to Geneva Ave).pdf",
+"modified": "2026-10-07T06:30:23+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"fe40f993c71e": {
+"path": "Striping Drawings/T_Streets/Townsend St/1-Townsend St_Str-8281 (Division St to 4th St).pdf",
+"modified": "2026-10-07T06:30:23+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"1fca6868e602": {
+"path": "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.2 (Divisadero St to Laguna St)R.pdf",
+"modified": "2026-10-09T06:30:34+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e3fc064bf82c": {
+"path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.2 (21st St to 16th St).pdf",
+"modified": "2026-10-10T06:31:04+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
 }
 }
