@@ -559,12 +559,12 @@
 },
 "5635d1fec747": {
 "path": "Striping Drawings/01_Numbered_Avenue/27th Ave/27th Ave_STR-8375 (Vicente St to Quintera St).pdf",
-"modified": "2026-09-22T06:30:26+00:00",
+"modified": "2026-10-17T06:31:08+00:00",
 "w": 1000,
-"h": 668,
+"h": 647,
 "hi": 3000,
 "hi_w": 3000,
-"hi_h": 2005
+"hi_h": 1941
 },
 "293a148bc456": {
 "path": "Striping Drawings/01_Numbered_Avenue/27th Ave/27th Ave_STR-8375.3 (Fulton St to Clement St).pdf",
@@ -2537,15 +2537,6 @@
 "hi_w": 3000,
 "hi_h": 2001
 },
-"abcfc6ff8a11": {
-"path": "Striping Drawings/A_Streets/Arballo Dr/Arballo Dr_Str-1549 (Pinto Ave).pdf",
-"modified": "2026-09-17T06:30:37+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "85657f48a6ee": {
 "path": "Striping Drawings/A_Streets/Arch St/Arch St_Str-8118 (Alemany Blvd to Sargeant St) r3.pdf",
 "modified": "2024-08-15T21:37:31+00:00",
@@ -3313,7 +3304,7 @@
 },
 "f051744a8062": {
 "path": "Striping Drawings/B_Streets/Bridgeview Dr/Bridgeview Dr_Str-8246 (Thornton Ave to Newhall St).pdf",
-"modified": "2024-08-15T21:37:22+00:00",
+"modified": "2026-10-15T06:30:45+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -3790,7 +3781,7 @@
 },
 "a449e2235837": {
 "path": "Striping Drawings/C_Streets/California St/2-California st_Str-7760.1 (24th Ave to 14th Ave).pdf",
-"modified": "2026-07-21T06:30:36+00:00",
+"modified": "2026-10-16T06:30:38+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -3868,15 +3859,6 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1873
-},
-"4c50099bde50": {
-"path": "Striping Drawings/C_Streets/Cambon St/Cambon st_Str-7295 (Cardenas Ave to Felix Ave) See Jonathan Wong 2026-09-24.pdf",
-"modified": "2026-09-25T06:30:33+00:00",
-"w": 1000,
-"h": 727,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 2182
 },
 "7c0f29ed6a72": {
 "path": "Striping Drawings/C_Streets/Cambridge St/Cambridge St_STR-8382 (Trumbull St to Silliman St).pdf",
@@ -5120,15 +5102,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"42a5a5e8a3c5": {
-"path": "Striping Drawings/D_Streets/Divisadero st/3_Divisadero St_Str-7879.1 (Grove St to O'Farrell St)r11.pdf",
-"modified": "2026-09-04T06:30:27+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "f28f855abb57": {
 "path": "Striping Drawings/D_Streets/Divisadero st/4_Divisadero St_Str-7879.2 (O'Farrell St to Washington St).pdf",
 "modified": "2026-09-23T06:30:32+00:00",
@@ -5140,7 +5113,7 @@
 },
 "06bb4d03fb56": {
 "path": "Striping Drawings/D_Streets/Divisadero st/5_Divisadero st_Str-7879.3 (Washington St to Filbert St).pdf",
-"modified": "2026-01-13T07:30:49+00:00",
+"modified": "2026-10-14T06:30:27+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -6244,15 +6217,6 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 2086
-},
-"4e82db780d24": {
-"path": "Striping Drawings/F_Streets/Fulton St/12-Fulton St_Str-8440 (Larkin St to Leavenworth St).pdf",
-"modified": "2025-09-10T06:30:23+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
 },
 "153d33024be9": {
 "path": "Striping Drawings/F_Streets/Fulton St/2-Fulton St_str-7970.1 (42nd Ave to 34th Ave).pdf",
@@ -9613,7 +9577,7 @@
 },
 "12a88ba45ab9": {
 "path": "Striping Drawings/M_Streets/Mariposa St/Mariposa St_STR-8438 (Mississippi St to Terry Francois Blvd).pdf",
-"modified": "2025-04-16T06:30:41+00:00",
+"modified": "2026-10-16T06:30:39+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14578,5 +14542,59 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1941
+},
+"ae3959502160": {
+"path": "Striping Drawings/A_Streets/Arballo Dr/Arballo Dr_Str-8603 (Vidal Dr to Font Blvd).pdf",
+"modified": "2026-10-16T06:30:39+00:00",
+"w": 1000,
+"h": 661,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1983
+},
+"4b66c616293e": {
+"path": "Striping Drawings/C_Streets/Cambon St/Cambon st_Str-8605 (Font Blvd to Cardenas Ave).pdf",
+"modified": "2026-10-16T06:30:39+00:00",
+"w": 1000,
+"h": 661,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1983
+},
+"6a168b76d3cd": {
+"path": "Striping Drawings/D_Streets/Divisadero st/3_Divisadero St_Str-7879.1 (Grove St to O'Farrell St).pdf",
+"modified": "2026-10-14T06:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"b7d3a8ff3503": {
+"path": "Striping Drawings/F_Streets/Fulton St/REC and PARK_12-Fulton St_Str-8440 (Larkin St to Leavenworth St).pdf",
+"modified": "2026-10-15T06:30:45+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"29567f05a0a8": {
+"path": "Striping Drawings/T_Streets/Tapia Dr/Tapia Dr_STR-8606 (Font Blvd to Serrano Dr).pdf",
+"modified": "2026-10-16T06:30:39+00:00",
+"w": 1000,
+"h": 660,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1981
+},
+"b0c66fdfe0c9": {
+"path": "Striping Drawings/V_Streets/Vidal Dr/Vidal Dr-STR-8604 (Rivas Dr to Arballo Dr).pdf",
+"modified": "2026-10-16T06:30:39+00:00",
+"w": 1000,
+"h": 664,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1991
 }
 }
