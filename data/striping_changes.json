@@ -132,5 +132,61 @@
     "now": "2026-10-09T06:30:34+00:00"
    }
   ]
+ },
+ {
+  "run": "2026-10-19T19:21:24+00:00",
+  "added": [
+   "Striping Drawings/A_Streets/Arballo Dr/Arballo Dr_Str-8603 (Vidal Dr to Font Blvd).pdf",
+   "Striping Drawings/C_Streets/Cambon St/Cambon st_Str-8605 (Font Blvd to Cardenas Ave).pdf",
+   "Striping Drawings/T_Streets/Tapia Dr/Tapia Dr_STR-8606 (Font Blvd to Serrano Dr).pdf",
+   "Striping Drawings/V_Streets/Vidal Dr/Vidal Dr-STR-8604 (Rivas Dr to Arballo Dr).pdf"
+  ],
+  "removed": [
+   "Striping Drawings/A_Streets/Arballo Dr/Arballo Dr_Str-1549 (Pinto Ave).pdf",
+   "Striping Drawings/C_Streets/Cambon St/Cambon st_Str-7295 (Cardenas Ave to Felix Ave) See Jonathan Wong 2026-09-24.pdf"
+  ],
+  "renamed": [
+   {
+    "id": "7879.1",
+    "from": [
+     "Striping Drawings/D_Streets/Divisadero st/3_Divisadero St_Str-7879.1 (Grove St to O'Farrell St)r11.pdf"
+    ],
+    "to": "Striping Drawings/D_Streets/Divisadero st/3_Divisadero St_Str-7879.1 (Grove St to O'Farrell St).pdf"
+   },
+   {
+    "id": "8440",
+    "from": [
+     "Striping Drawings/F_Streets/Fulton St/12-Fulton St_Str-8440 (Larkin St to Leavenworth St).pdf"
+    ],
+    "to": "Striping Drawings/F_Streets/Fulton St/REC and PARK_12-Fulton St_Str-8440 (Larkin St to Leavenworth St).pdf"
+   }
+  ],
+  "updated": [
+   {
+    "path": "Striping Drawings/01_Numbered_Avenue/27th Ave/27th Ave_STR-8375 (Vicente St to Quintera St).pdf",
+    "was": "2026-09-22T06:30:26+00:00",
+    "now": "2026-10-17T06:31:08+00:00"
+   },
+   {
+    "path": "Striping Drawings/B_Streets/Bridgeview Dr/Bridgeview Dr_Str-8246 (Thornton Ave to Newhall St).pdf",
+    "was": "2024-08-15T21:37:22+00:00",
+    "now": "2026-10-15T06:30:45+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/California St/2-California st_Str-7760.1 (24th Ave to 14th Ave).pdf",
+    "was": "2026-07-21T06:30:36+00:00",
+    "now": "2026-10-16T06:30:38+00:00"
+   },
+   {
+    "path": "Striping Drawings/D_Streets/Divisadero st/5_Divisadero st_Str-7879.3 (Washington St to Filbert St).pdf",
+    "was": "2026-01-13T07:30:49+00:00",
+    "now": "2026-10-14T06:30:27+00:00"
+   },
+   {
+    "path": "Striping Drawings/M_Streets/Mariposa St/Mariposa St_STR-8438 (Mississippi St to Terry Francois Blvd).pdf",
+    "was": "2025-04-16T06:30:41+00:00",
+    "now": "2026-10-16T06:30:39+00:00"
+   }
+  ]
  }
 ]
