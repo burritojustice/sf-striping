@@ -188,5 +188,142 @@
     "now": "2026-10-16T06:30:39+00:00"
    }
   ]
+ },
+ {
+  "run": "2026-10-26T19:21:35+00:00",
+  "added": [
+   "Striping Drawings/F_Streets/Fell St/Hayes St_Str-8295.3 (Octavia St to Market St).pdf"
+  ],
+  "removed": [],
+  "renamed": [
+   {
+    "id": "7857.1",
+    "from": [
+     "Striping Drawings/B_Streets/Bosworth st/Bosworth St_Str-7857.1 (Chilton St to Lyell St)R.pdf"
+    ],
+    "to": "Striping Drawings/B_Streets/Bosworth st/Bosworth St_Str-7857.1 (Chilton St to Lyell St).pdf"
+   },
+   {
+    "id": "7733",
+    "from": [
+     "Striping Drawings/B_Streets/Brompton St/Str-7733_Brompton St (Joost St to Bosworth St).pdf"
+    ],
+    "to": "Striping Drawings/B_Streets/Brompton St/Str-7733_Brompton St (Joost St to Bosworth St)r1.pdf"
+   },
+   {
+    "id": "2243.6",
+    "from": [
+     "Striping Drawings/F_Streets/Fulton St/10-Fulton St_str-2243.6 (Scott St to Gough St) See Deifilia Montoya 2026-04-02.pdf"
+    ],
+    "to": "Striping Drawings/F_Streets/Fulton St/10-Fulton St_str-2243.6 (Scott St to Gough St) See Juan Hernandez 2026-10-21.pdf"
+   },
+   {
+    "id": "7630.1",
+    "from": [
+     "Striping Drawings/G_Streets/Golden Gate Ave/2_Golden Gate Ave_Str-7630.1 (Tamalpais Ter to Divisadero St)r18.pdf"
+    ],
+    "to": "Striping Drawings/G_Streets/Golden Gate Ave/2_Golden Gate Ave_Str-7630.1 (Tamalpais Ter to Divisadero St).pdf"
+   },
+   {
+    "id": "8175",
+    "from": [
+     "Striping Drawings/H_Streets/Hampshire St/Hampshire St_STR-8175 (Peralta Ave to 22nd St).pdf"
+    ],
+    "to": "Striping Drawings/H_Streets/Hampshire St/Hampshire St_STR-8175 (Peralta Ave to 22nd St)r7.pdf"
+   },
+   {
+    "id": "7826.3",
+    "from": [
+     "Striping Drawings/L_Streets/Lake st/Lake st_str-7826.3 (4th Ave to Arguello Blvd)r6.pdf"
+    ],
+    "to": "Striping Drawings/L_Streets/Lake st/Lake st_str-7826.3 (4th Ave to Arguello Blvd).pdf"
+   },
+   {
+    "id": "6690",
+    "from": [
+     "Striping Drawings/P_Streets/Pierce St/Pierce st_str-6690 (Broadway St to Jackson St) See Juan Hernandez 2026-10-05.pdf"
+    ],
+    "to": "Striping Drawings/P_Streets/Pierce St/Pierce st_str-6690 (Broadway St to Jackson St).pdf"
+   },
+   {
+    "id": "8126.3",
+    "from": [
+     "Striping Drawings/S_Streets/Silver Ave/Silver Ave_Str-8126.3 (Charter Oak Ave to Palou Ave).pdf"
+    ],
+    "to": "Striping Drawings/S_Streets/Silver Ave/Silver Ave_Str-8126.3 (Charter Oak Ave to Palou Ave)r3.pdf"
+   }
+  ],
+  "updated": [
+   {
+    "path": "Striping Drawings/01_Numbered_Avenue/38th Ave/38th Ave_STR-8300.2 (Lawton St to Lincoln Way).pdf",
+    "was": "2026-06-18T06:30:24+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/01_Numbered_Avenue/3rd Ave/3rd Ave_STR-8130.1 (Geary Blvd to Terminus).pdf",
+    "was": "2026-07-11T06:31:05+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/California St/4-California St_Str-7760.3 (5th Ave to Spruce St).pdf",
+    "was": "2026-07-10T06:30:31+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/Cesar Chavez/Cesar Chavez St_STR-8211.2 (Guerrero St to South Van Ness).pdf",
+    "was": "2025-04-02T06:30:28+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/Cesar Chavez/Cesar Chavez St_STR-8211.4 (Bryant St to Potrero St).pdf",
+    "was": "2026-06-04T06:30:42+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/Cesar Chavez/Cesar Chavez St_STR-8211.5 (Potrero Ave to Mississippi St).pdf",
+    "was": "2025-12-05T07:30:21+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/F_Streets/Font Blvd/Font Blvd_Str-8395 (Lake Merced Blvd to Juan Batista Cir).pdf",
+    "was": "2026-08-14T06:30:20+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/G_Streets/Golden Gate Ave/3_Golden Gate Ave_Str-7630.2 (Divisadero St to Buchanan St).pdf",
+    "was": "2025-09-11T06:30:29+00:00",
+    "now": "2026-10-23T06:30:28+00:00"
+   },
+   {
+    "path": "Striping Drawings/H_Streets/Holloway Ave/Holloway Ave_str-7895 (Font Blvd to 19th Ave).pdf",
+    "was": "2026-04-04T06:30:44+00:00",
+    "now": "2026-10-20T06:30:26+00:00"
+   },
+   {
+    "path": "Striping Drawings/L_Streets/Lawton St/Lawton st_str-7730 (Great highway to 40th Ave).pdf",
+    "was": "2026-03-08T07:30:48+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/L_Streets/Lawton St/Lawton st_str-7730.1 (40th Ave to 30th Ave).pdf",
+    "was": "2026-07-24T06:30:48+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   },
+   {
+    "path": "Striping Drawings/R_Streets/Randall St/Randall St STR-8468 (Harper St to San Jose Ave).pdf",
+    "was": "2026-04-28T06:30:43+00:00",
+    "now": "2026-10-24T06:31:01+00:00"
+   },
+   {
+    "path": "Striping Drawings/S_Streets/Shotwell St/Shotwell St_STR-8201.1(24th St to 19th St).pdf",
+    "was": "2026-10-02T06:30:43+00:00",
+    "now": "2026-10-20T06:30:26+00:00"
+   },
+   {
+    "path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218 (Mission St to 26th St).pdf",
+    "was": "2025-06-06T06:30:33+00:00",
+    "now": "2026-10-21T06:30:35+00:00"
+   }
+  ]
  }
 ]
