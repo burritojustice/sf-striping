@@ -919,7 +919,7 @@
 },
 "1d0ff1c683a4": {
 "path": "Striping Drawings/01_Numbered_Avenue/41st Ave/41st Ave_STR-8262.1 (Rivera St to Ortega St).pdf",
-"modified": "2025-04-05T06:35:38+00:00",
+"modified": "2026-10-30T06:30:21+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -4483,7 +4483,7 @@
 },
 "f49a005eb8ce": {
 "path": "Striping Drawings/C_Streets/Clayton st/Clayton St_Str-7854 (Parnassus Ave to Oak St).pdf",
-"modified": "2026-05-20T06:30:30+00:00",
+"modified": "2026-10-28T06:33:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -4610,15 +4610,6 @@
 "217044acde1c": {
 "path": "Striping Drawings/C_Streets/Collins St/Collins St_Str-8186 (Anza St to Mayfair Dr).pdf",
 "modified": "2024-12-04T07:30:47+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"7b75fc624d84": {
-"path": "Striping Drawings/C_Streets/Columbus Ave/Columbus St_Str-8059 (Beach St to Lombard St)r15.pdf",
-"modified": "2026-04-09T06:30:20+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -5077,7 +5068,7 @@
 },
 "a7f59ad4b417": {
 "path": "Striping Drawings/D_Streets/Divisadero st/2_Divisadero St_Str-7879 (Duboce Ave to Grove St).pdf",
-"modified": "2026-07-10T06:30:31+00:00",
+"modified": "2026-10-30T06:30:21+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -5849,27 +5840,9 @@
 "hi_w": 3000,
 "hi_h": 1855
 },
-"d4745ec24b3c": {
-"path": "Striping Drawings/F_Streets/Fillmore St/Fillmore st_str-4072.1 (Sacramento St to Golden Gate Ave).pdf",
-"modified": "2026-04-23T06:30:36+00:00",
-"w": 1000,
-"h": 650,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1949
-},
-"21708c73a11a": {
-"path": "Striping Drawings/F_Streets/Fillmore St/Fillmore St_str-6570 (Chestnut St to Marina St).pdf",
-"modified": "2026-04-23T06:30:36+00:00",
-"w": 1000,
-"h": 649,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1948
-},
 "4d9b7a8467c0": {
 "path": "Striping Drawings/F_Streets/Fillmore St/Fillmore St_STR-8510 (Duboce Ave to Fulton St).pdf",
-"modified": "2026-01-21T07:30:26+00:00",
+"modified": "2026-10-28T06:33:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -7685,15 +7658,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"92a899976d7f": {
-"path": "Striping Drawings/H_Streets/Hyde St/Hyde st_Str-8112.3 (Filbert St to Jefferson St)r8.pdf",
-"modified": "2026-07-21T06:30:36+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "57007e71cfbd": {
 "path": "Striping Drawings/I_Streets/Idora Ave/Idora Ave_STR-8461 (Garcia Ave to Woodside Ave).pdf",
 "modified": "2026-09-23T06:30:32+00:00",
@@ -8813,15 +8777,6 @@
 "59daa3823140": {
 "path": "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826 (El Camino Del Mar to 22nd Ave).pdf",
 "modified": "2025-01-14T07:30:35+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"8e4f3d99eb38": {
-"path": "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826.1 (22nd Ave to Funston Ave).pdf",
-"modified": "2025-01-14T07:30:36+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -12320,15 +12275,6 @@
 "hi_w": 3000,
 "hi_h": 1884
 },
-"f5f403946d9d": {
-"path": "Striping Drawings/S_Streets/Sanchez st/Sanchez st_Str-5975 (20th St to Liberty St).pdf",
-"modified": "2024-08-15T21:37:18+00:00",
-"w": 1000,
-"h": 586,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1759
-},
 "eac72869793a": {
 "path": "Striping Drawings/S_Streets/Sanchez st/Sanchez st_Str-7831 (Market St to19th St).pdf",
 "modified": "2024-12-31T07:30:35+00:00",
@@ -12923,24 +12869,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"e8642f570a36": {
-"path": "Striping Drawings/S_Streets/Steiner st/Steiner St_Str-7897(Duboce St to Hayes St).pdf",
-"modified": "2025-02-11T07:30:35+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"8133e9e313b0": {
-"path": "Striping Drawings/S_Streets/Steiner st/Steiner St_Str-7897.1 (Hayes St to Ellis St).pdf",
-"modified": "2026-09-29T06:30:28+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "d80e97011233": {
 "path": "Striping Drawings/S_Streets/Steiner st/Steiner St_Str-7897.2 (Ellis St to California St).pdf",
 "modified": "2025-10-31T06:30:39+00:00",
@@ -12953,15 +12881,6 @@
 "682624a2bed8": {
 "path": "Striping Drawings/S_Streets/Steiner st/Steiner st_Str-7897.3 (California St to Vallejo St).pdf",
 "modified": "2026-10-01T06:30:39+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"4f6248bbfaa7": {
-"path": "Striping Drawings/S_Streets/Steiner st/Steiner st_Str-7897.4 (Vallejo St to Chestnut St).pdf",
-"modified": "2025-07-09T06:30:28+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -13715,15 +13634,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"88bd9e4ccd8d": {
-"path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.3 (16th St to Market St).pdf",
-"modified": "2026-02-26T07:30:36+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "25f1e0624b7a": {
 "path": "Striping Drawings/V_Streets/Vallejo st/Str-7653_Vallejo st (Powell st to Stockton st).pdf",
 "modified": "2024-08-15T21:37:14+00:00",
@@ -14453,15 +14363,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"e3fc064bf82c": {
-"path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.2 (21st St to 16th St).pdf",
-"modified": "2026-10-10T06:31:04+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "ae3959502160": {
 "path": "Striping Drawings/A_Streets/Arballo Dr/Arballo Dr_Str-8603 (Vidal Dr to Font Blvd).pdf",
 "modified": "2026-10-16T06:30:39+00:00",
@@ -14591,6 +14492,96 @@
 "99b7b8774ba1": {
 "path": "Striping Drawings/S_Streets/Silver Ave/Silver Ave_Str-8126.3 (Charter Oak Ave to Palou Ave)r3.pdf",
 "modified": "2026-10-20T06:30:26+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"e05de5f0b1db": {
+"path": "Striping Drawings/C_Streets/Columbus Ave/Columbus St_Str-8059 (Beach St to Lombard St).pdf",
+"modified": "2026-10-27T06:30:51+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"604f82e624dc": {
+"path": "Striping Drawings/F_Streets/Fillmore St/Fillmore st_str-4072.1 (Sacramento St to Golden Gate Ave) See Daniel Mackowski 2026-10-26.pdf",
+"modified": "2026-10-27T06:30:52+00:00",
+"w": 1000,
+"h": 650,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1949
+},
+"4946b1b8f240": {
+"path": "Striping Drawings/F_Streets/Fillmore St/Fillmore St_str-6570 (Chestnut St to Marina St) See Daniel Mackowski 2026-10-26.pdf",
+"modified": "2026-10-27T06:30:52+00:00",
+"w": 1000,
+"h": 649,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1948
+},
+"214eac06d5d3": {
+"path": "Striping Drawings/H_Streets/Hyde St/Hyde st_Str-8112.3 (Filbert St to Jefferson St).pdf",
+"modified": "2026-10-31T06:31:25+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"632e05eb2084": {
+"path": "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826.1 (22nd Ave to Funston Ave)r11.pdf",
+"modified": "2026-10-28T06:33:37+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"5a68d0485fbc": {
+"path": "Striping Drawings/S_Streets/Steiner st/Steiner St_Str-7897(Duboce St to Hayes St)r6.pdf",
+"modified": "2026-10-27T06:30:52+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"a66492be9d80": {
+"path": "Striping Drawings/S_Streets/Steiner st/Steiner St_Str-7897.1 (Hayes St to Ellis St)r11.pdf",
+"modified": "2026-10-27T06:30:51+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"89897e9963a7": {
+"path": "Striping Drawings/S_Streets/Steiner st/Steiner st_Str-7897.4 (Vallejo St to Chestnut St)r2.pdf",
+"modified": "2026-10-27T06:30:51+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"1373f859a484": {
+"path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.2 (21st St to 16th St)r8.pdf",
+"modified": "2026-10-27T06:30:51+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"015d8f71b7d8": {
+"path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.3 (16th St to Market St)r13.pdf",
+"modified": "2026-10-30T06:30:21+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
