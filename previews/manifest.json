@@ -1673,15 +1673,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"8592c20ee391": {
-"path": "Striping Drawings/02_Numbered_Street/20th St/20th St_Str-8364.1 (Church St to Mission St).pdf",
-"modified": "2026-10-03T06:30:55+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "27ec7153a28e": {
 "path": "Striping Drawings/02_Numbered_Street/20th St/20th St_Str-8364.2 (Mission St to Potrero Ave).pdf",
 "modified": "2026-03-05T07:30:37+00:00",
@@ -3869,24 +3860,6 @@
 "hi_w": 3000,
 "hi_h": 1936
 },
-"74bd4d44d32f": {
-"path": "Striping Drawings/C_Streets/Capitol ave/Capitol Ave_STR-8361 (Sagamore St to Grafton Ave).pdf",
-"modified": "2024-08-15T21:37:15+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"53e37bac1839": {
-"path": "Striping Drawings/C_Streets/Capitol ave/Capitol Ave_STR-8361.1 (Grafton Ave to Ocean Ave).pdf",
-"modified": "2026-09-03T06:30:21+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "6b59d6dc7b68": {
 "path": "Striping Drawings/C_Streets/Capp St/Capp St_str-4405 (17th St to 16th St)_see 8349 corridor file.pdf",
 "modified": "2024-08-15T21:37:21+00:00",
@@ -4150,15 +4123,6 @@
 },
 "7138de0ac9a3": {
 "path": "Striping Drawings/C_Streets/Cesar Chavez/Cesar Chavez St_STR-8211.4 (Bryant St to Potrero St).pdf",
-"modified": "2026-10-21T06:30:35+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"304665ff50f6": {
-"path": "Striping Drawings/C_Streets/Cesar Chavez/Cesar Chavez St_STR-8211.5 (Potrero Ave to Mississippi St).pdf",
 "modified": "2026-10-21T06:30:35+00:00",
 "w": 1000,
 "h": 647,
@@ -4519,7 +4483,7 @@
 },
 "770c991ac4b3": {
 "path": "Striping Drawings/C_Streets/Clement st/Clement st_Str-7996.1 (36th Ave to 27th Ave).pdf",
-"modified": "2026-02-21T07:30:44+00:00",
+"modified": "2026-11-03T07:30:43+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -9287,24 +9251,6 @@
 "hi_w": 3000,
 "hi_h": 1927
 },
-"817d56aee4ca": {
-"path": "Striping Drawings/M_Streets/Macalla Rd/Macalla Rd_Str-7700 (Treasure Island to Yerba Buena).pdf",
-"modified": "2024-08-15T21:37:34+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"2a74179a6ebd": {
-"path": "Striping Drawings/M_Streets/Macalla Rd/Macalla Rd_Str-7700.1 (Treasure Island to Yerba Buena).pdf",
-"modified": "2024-08-15T21:37:15+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "38ce1e0f81d4": {
 "path": "Striping Drawings/M_Streets/Maddux Ave/Maddux Ave_Str-8043 (Scotia Ave to Quint St).pdf",
 "modified": "2024-08-15T21:37:28+00:00",
@@ -10360,7 +10306,7 @@
 },
 "8bdd3fe15964": {
 "path": "Striping Drawings/N_Streets/Newhall st/Newhall St_STR-8486 (Topeka Ave to 3rd St).pdf",
-"modified": "2026-01-23T07:30:34+00:00",
+"modified": "2026-11-03T07:30:43+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -10469,15 +10415,6 @@
 "a5197f2737fc": {
 "path": "Striping Drawings/N_Streets/Noriega st/STR-7751.3_Noriega St (20th Ave to 16th Ave).pdf",
 "modified": "2024-10-03T06:30:44+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"cf893789a2c4": {
-"path": "Striping Drawings/N_Streets/North Point st/North Point St_Str-7713  (Van Ness ave to Jones St)r15.pdf",
-"modified": "2026-09-02T06:30:42+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -10639,7 +10576,7 @@
 },
 "14cfa1d31c6e": {
 "path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.1 (Aptos to Keystone Way).pdf",
-"modified": "2026-04-03T06:30:20+00:00",
+"modified": "2026-11-03T07:30:43+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -10667,15 +10604,6 @@
 "8c6c22b31d87": {
 "path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.5 (San Jose Ave to Mission St).pdf",
 "modified": "2024-11-07T07:30:43+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"3a4959f4cdb1": {
-"path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.6 (Cayuga Ave to Mission St).pdf",
-"modified": "2026-09-24T06:30:38+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -11342,15 +11270,6 @@
 "b04f4680f975": {
 "path": "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.2 (Sacramento St to Filbert St).pdf",
 "modified": "2026-03-07T07:30:34+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"481a224f44d1": {
-"path": "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.3 (Filbert St to Beach St)r1.pdf",
-"modified": "2026-03-03T07:30:23+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -12059,15 +11978,6 @@
 "hi_w": 3000,
 "hi_h": 2028
 },
-"337d53618d5e": {
-"path": "Striping Drawings/S_Streets/San Anselmo/San Anselmo Ave_Str-8378 (Portola Dr to St Francis Blvd).pdf",
-"modified": "2024-08-15T21:37:33+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "5e7a187d6168": {
 "path": "Striping Drawings/S_Streets/San Benito Way/San Benito Way-STR-7908 (Ocean to Monterey).pdf",
 "modified": "2026-06-23T06:30:23+00:00",
@@ -12547,7 +12457,7 @@
 },
 "b96af5c21ded": {
 "path": "Striping Drawings/S_Streets/Shotwell St/Shotwell St_STR-8201.1(24th St to 19th St).pdf",
-"modified": "2026-10-20T06:30:26+00:00",
+"modified": "2026-11-03T07:30:43+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -12835,12 +12745,12 @@
 },
 "222595ed23b4": {
 "path": "Striping Drawings/S_Streets/Stanyan st/Stanyan St_STR-7993.1 (Frederick St to Hayes St).pdf",
-"modified": "2026-08-26T06:30:20+00:00",
+"modified": "2026-11-05T07:33:45+00:00",
 "w": 1000,
-"h": 1545,
+"h": 647,
 "hi": 3000,
-"hi_w": 2200,
-"hi_h": 3400
+"hi_w": 3000,
+"hi_h": 1941
 },
 "3157c492308a": {
 "path": "Striping Drawings/S_Streets/Stanyan st/Stanyan St_STR-7993.2 (Fulton St to Geary Blvd).pdf",
@@ -13357,7 +13267,7 @@
 },
 "43717aae245c": {
 "path": "Striping Drawings/T_Streets/Treasure Island Roads/TI_Road-STR 8483 (Trade Winds Ave to Macalla Rd).pdf",
-"modified": "2025-10-28T06:30:26+00:00",
+"modified": "2026-11-03T07:30:43+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -13870,7 +13780,7 @@
 },
 "d8560b35df11": {
 "path": "Striping Drawings/W_Streets/Waller st/Waller St_Str-7979 (Stanyan St to Central Ave).pdf",
-"modified": "2025-12-03T07:30:21+00:00",
+"modified": "2026-11-05T07:33:45+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14201,42 +14111,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"97c153c0e4d7": {
-"path": "Striping Drawings/Y_Streets/Yerba Buena Ave/Yerba Buena Ave_str-2596 (Monterey blvd to Brentwood ave)r7_see Jonathan Chimento 2026-08-10.pdf",
-"modified": "2026-08-11T06:33:39+00:00",
-"w": 1000,
-"h": 652,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1955
-},
-"bda5d1762b8b": {
-"path": "Striping Drawings/Y_Streets/Yerba Buena Ave/Yerba Buena Ave_str-2596.1 (Hazelwood Dr to Maywood Dr) rev13_see Jonathan Chimento 2025-12-10.pdf",
-"modified": "2025-12-11T07:30:44+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1940
-},
-"7a8575b9d565": {
-"path": "Striping Drawings/Y_Streets/Yerba Buena Island Rd/YBI_Macalla Rd-STR-8484 (Treasure Island Rd to Yerba Buena Rd) 2025-03-25.pdf",
-"modified": "2025-03-26T06:30:17+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"02ea48803846": {
-"path": "Striping Drawings/Y_Streets/Yerba Buena Island Rd/YBI_Macalla Rd-STR-8484.1 (Yerba Buena Rd to I-80 Westbound) 2025-03-12.pdf",
-"modified": "2025-03-26T06:30:17+00:00",
-"w": 1000,
-"h": 668,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 2005
-},
 "6c8945246613": {
 "path": "Striping Drawings/Y_Streets/Yerba Buena Island Rd/YBI_Yerba Buena Rd-STR-8488 (Macalla Rd to Yerba Buena Circle).pdf",
 "modified": "2025-03-26T06:30:17+00:00",
@@ -14338,7 +14212,7 @@
 },
 "627413a8b179": {
 "path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.3 (Plymouth Ave to Geneva Ave).pdf",
-"modified": "2026-10-07T06:30:23+00:00",
+"modified": "2026-11-03T07:30:43+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14354,26 +14228,8 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"1fca6868e602": {
-"path": "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.2 (Divisadero St to Laguna St)R.pdf",
-"modified": "2026-10-09T06:30:34+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "ae3959502160": {
 "path": "Striping Drawings/A_Streets/Arballo Dr/Arballo Dr_Str-8603 (Vidal Dr to Font Blvd).pdf",
-"modified": "2026-10-16T06:30:39+00:00",
-"w": 1000,
-"h": 661,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1983
-},
-"4b66c616293e": {
-"path": "Striping Drawings/C_Streets/Cambon St/Cambon st_Str-8605 (Font Blvd to Cardenas Ave).pdf",
 "modified": "2026-10-16T06:30:39+00:00",
 "w": 1000,
 "h": 661,
@@ -14446,12 +14302,12 @@
 },
 "fa038ad150eb": {
 "path": "Striping Drawings/F_Streets/Fulton St/10-Fulton St_str-2243.6 (Scott St to Gough St) See Juan Hernandez 2026-10-21.pdf",
-"modified": "2026-10-22T06:31:04+00:00",
+"modified": "2026-11-06T07:30:29+00:00",
 "w": 1000,
-"h": 695,
+"h": 667,
 "hi": 3000,
 "hi_w": 3000,
-"hi_h": 2086
+"hi_h": 2000
 },
 "c7cb627b68b4": {
 "path": "Striping Drawings/G_Streets/Golden Gate Ave/2_Golden Gate Ave_Str-7630.1 (Tamalpais Ter to Divisadero St).pdf",
@@ -14579,13 +14435,157 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"015d8f71b7d8": {
-"path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.3 (16th St to Market St)r13.pdf",
-"modified": "2026-10-30T06:30:21+00:00",
+"fe5b7aea6c50": {
+"path": "Striping Drawings/02_Numbered_Street/20th St/20th St_Str-8364.1 (Church St to Mission St)r8.pdf",
+"modified": "2026-11-05T07:33:46+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1941
+},
+"92246d83579a": {
+"path": "Striping Drawings/C_Streets/Cambon St/Cambon st_Str-8605 (Font Blvd to Cardenas Ave) Rev0.pdf",
+"modified": "2026-11-07T07:31:10+00:00",
+"w": 1000,
+"h": 661,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1983
+},
+"2bb27bc84929": {
+"path": "Striping Drawings/C_Streets/Capitol Ave/Capitol Ave_STR-8361 (Sagamore St to Grafton Ave).pdf",
+"modified": "2026-11-05T07:33:45+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"00d2693612a1": {
+"path": "Striping Drawings/C_Streets/Capitol Ave/Capitol Ave_STR-8361.1 (Grafton Ave to Ocean Ave).pdf",
+"modified": "2026-11-05T07:33:45+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"fa7ce136ea3d": {
+"path": "Striping Drawings/C_Streets/Cesar Chavez/Cesar Chavez St_STR-8211.5 (Vermont St to Mississippi St).pdf",
+"modified": "2026-11-05T07:33:46+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"b4e0f8bf10de": {
+"path": "Striping Drawings/C_Streets/Coleman St/Coleman St_Str-8557 (Kirkwood Ave to Galvez Ave).pdf",
+"modified": "2026-11-05T07:33:46+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2003
+},
+"93a84234d665": {
+"path": "Striping Drawings/F_Streets/Friedell St/Friedell St_Str-8558 (Kirkwood Ave to Hudson Ave) Rev0.pdf",
+"modified": "2026-11-05T07:33:45+00:00",
+"w": 1000,
+"h": 672,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2016
+},
+"6885eff5139d": {
+"path": "Striping Drawings/M_Streets/Macalla Rd/Macalla Rd_Str-8484 (Treasure Island to Yerba Buena).pdf",
+"modified": "2026-11-03T07:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"776e9c0524dd": {
+"path": "Striping Drawings/M_Streets/Macalla Rd/Macalla Rd_Str-8484.1 (Treasure Island to Yerba Buena).pdf",
+"modified": "2026-11-03T07:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d44a5555829a": {
+"path": "Striping Drawings/N_Streets/North Point st/North Point St_Str-7713  (Van Ness ave to Jones St).pdf",
+"modified": "2026-11-03T07:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"d0598a4533e6": {
+"path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.6 (Cayuga Ave to Mission St)r9.pdf",
+"modified": "2026-11-04T07:30:27+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2f6fc70a62f3": {
+"path": "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.3 (Filbert St to Beach St).pdf",
+"modified": "2026-11-03T07:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"ec1df57cd8e8": {
+"path": "Striping Drawings/S_Streets/San Anselmo/San Anselmo Ave_Str-8378 (Portola Dr to St Francis Blvd)r0.pdf",
+"modified": "2026-11-03T07:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"78b431e43be2": {
+"path": "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.2 (Divisadero St to Laguna St)r10.pdf",
+"modified": "2026-11-03T07:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"88bd9e4ccd8d": {
+"path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.3 (16th St to Market St).pdf",
+"modified": "2026-11-05T07:33:45+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"2404a6d4f206": {
+"path": "Striping Drawings/Y_Streets/Yerba Buena Ave/Yerba Buena Ave_str-2596 (Monterey Blvd to Brentwood Ave).pdf",
+"modified": "2026-11-03T07:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"abadc4ba8bd5": {
+"path": "Striping Drawings/Y_Streets/Yerba Buena Ave/Yerba Buena ave_str-2596.1 (Hazelwood dr to Maywood dr).pdf",
+"modified": "2026-11-03T07:30:43+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1940
 }
 }
