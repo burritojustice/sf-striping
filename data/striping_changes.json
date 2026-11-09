@@ -426,5 +426,158 @@
     "now": "2026-10-28T06:33:37+00:00"
    }
   ]
+ },
+ {
+  "run": "2026-11-09T22:59:58+00:00",
+  "added": [
+   "Striping Drawings/C_Streets/Coleman St/Coleman St_Str-8557 (Kirkwood Ave to Galvez Ave).pdf",
+   "Striping Drawings/F_Streets/Friedell St/Friedell St_Str-8558 (Kirkwood Ave to Hudson Ave) Rev0.pdf",
+   "Striping Drawings/M_Streets/Macalla Rd/Macalla Rd_Str-8484 (Treasure Island to Yerba Buena).pdf",
+   "Striping Drawings/M_Streets/Macalla Rd/Macalla Rd_Str-8484.1 (Treasure Island to Yerba Buena).pdf"
+  ],
+  "removed": [
+   "Striping Drawings/M_Streets/Macalla Rd/Macalla Rd_Str-7700 (Treasure Island to Yerba Buena).pdf",
+   "Striping Drawings/M_Streets/Macalla Rd/Macalla Rd_Str-7700.1 (Treasure Island to Yerba Buena).pdf"
+  ],
+  "renamed": [
+   {
+    "id": "8364.1",
+    "from": [
+     "Striping Drawings/02_Numbered_Street/20th St/20th St_Str-8364.1 (Church St to Mission St).pdf"
+    ],
+    "to": "Striping Drawings/02_Numbered_Street/20th St/20th St_Str-8364.1 (Church St to Mission St)r8.pdf"
+   },
+   {
+    "id": "8605",
+    "from": [
+     "Striping Drawings/C_Streets/Cambon St/Cambon st_Str-8605 (Font Blvd to Cardenas Ave).pdf"
+    ],
+    "to": "Striping Drawings/C_Streets/Cambon St/Cambon st_Str-8605 (Font Blvd to Cardenas Ave) Rev0.pdf"
+   },
+   {
+    "id": "8361",
+    "from": [
+     "Striping Drawings/C_Streets/Capitol ave/Capitol Ave_STR-8361 (Sagamore St to Grafton Ave).pdf"
+    ],
+    "to": "Striping Drawings/C_Streets/Capitol Ave/Capitol Ave_STR-8361 (Sagamore St to Grafton Ave).pdf"
+   },
+   {
+    "id": "8361.1",
+    "from": [
+     "Striping Drawings/C_Streets/Capitol ave/Capitol Ave_STR-8361.1 (Grafton Ave to Ocean Ave).pdf"
+    ],
+    "to": "Striping Drawings/C_Streets/Capitol Ave/Capitol Ave_STR-8361.1 (Grafton Ave to Ocean Ave).pdf"
+   },
+   {
+    "id": "8211.5",
+    "from": [
+     "Striping Drawings/C_Streets/Cesar Chavez/Cesar Chavez St_STR-8211.5 (Potrero Ave to Mississippi St).pdf"
+    ],
+    "to": "Striping Drawings/C_Streets/Cesar Chavez/Cesar Chavez St_STR-8211.5 (Vermont St to Mississippi St).pdf"
+   },
+   {
+    "id": "7713",
+    "from": [
+     "Striping Drawings/N_Streets/North Point st/North Point St_Str-7713  (Van Ness ave to Jones St)r15.pdf"
+    ],
+    "to": "Striping Drawings/N_Streets/North Point st/North Point St_Str-7713  (Van Ness ave to Jones St).pdf"
+   },
+   {
+    "id": "7656.6",
+    "from": [
+     "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.6 (Cayuga Ave to Mission St).pdf"
+    ],
+    "to": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.6 (Cayuga Ave to Mission St)r9.pdf"
+   },
+   {
+    "id": "8117.3",
+    "from": [
+     "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.3 (Filbert St to Beach St)r1.pdf"
+    ],
+    "to": "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.3 (Filbert St to Beach St).pdf"
+   },
+   {
+    "id": "8378",
+    "from": [
+     "Striping Drawings/S_Streets/San Anselmo/San Anselmo Ave_Str-8378 (Portola Dr to St Francis Blvd).pdf"
+    ],
+    "to": "Striping Drawings/S_Streets/San Anselmo/San Anselmo Ave_Str-8378 (Portola Dr to St Francis Blvd)r0.pdf"
+   },
+   {
+    "id": "7758.2",
+    "from": [
+     "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.2 (Divisadero St to Laguna St)R.pdf"
+    ],
+    "to": "Striping Drawings/T_Streets/Turk St/Turk St_Str-7758.2 (Divisadero St to Laguna St)r10.pdf"
+   },
+   {
+    "id": "8218.3",
+    "from": [
+     "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.3 (16th St to Market St)r13.pdf"
+    ],
+    "to": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.3 (16th St to Market St).pdf"
+   },
+   {
+    "id": "2596",
+    "from": [
+     "Striping Drawings/Y_Streets/Yerba Buena Ave/Yerba Buena Ave_str-2596 (Monterey blvd to Brentwood ave)r7_see Jonathan Chimento 2026-08-10.pdf"
+    ],
+    "to": "Striping Drawings/Y_Streets/Yerba Buena Ave/Yerba Buena Ave_str-2596 (Monterey Blvd to Brentwood Ave).pdf"
+   },
+   {
+    "id": "2596.1",
+    "from": [
+     "Striping Drawings/Y_Streets/Yerba Buena Ave/Yerba Buena Ave_str-2596.1 (Hazelwood Dr to Maywood Dr) rev13_see Jonathan Chimento 2025-12-10.pdf"
+    ],
+    "to": "Striping Drawings/Y_Streets/Yerba Buena Ave/Yerba Buena ave_str-2596.1 (Hazelwood dr to Maywood dr).pdf"
+   }
+  ],
+  "updated": [
+   {
+    "path": "Striping Drawings/C_Streets/Clement st/Clement st_Str-7996.1 (36th Ave to 27th Ave).pdf",
+    "was": "2026-02-21T07:30:44+00:00",
+    "now": "2026-11-03T07:30:43+00:00"
+   },
+   {
+    "path": "Striping Drawings/F_Streets/Fulton St/10-Fulton St_str-2243.6 (Scott St to Gough St) See Juan Hernandez 2026-10-21.pdf",
+    "was": "2026-10-22T06:31:04+00:00",
+    "now": "2026-11-06T07:30:29+00:00"
+   },
+   {
+    "path": "Striping Drawings/N_Streets/Newhall st/Newhall St_STR-8486 (Topeka Ave to 3rd St).pdf",
+    "was": "2026-01-23T07:30:34+00:00",
+    "now": "2026-11-03T07:30:43+00:00"
+   },
+   {
+    "path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.1 (Aptos to Keystone Way).pdf",
+    "was": "2026-04-03T06:30:20+00:00",
+    "now": "2026-11-03T07:30:43+00:00"
+   },
+   {
+    "path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.3 (Plymouth Ave to Geneva Ave).pdf",
+    "was": "2026-10-07T06:30:23+00:00",
+    "now": "2026-11-03T07:30:43+00:00"
+   },
+   {
+    "path": "Striping Drawings/S_Streets/Shotwell St/Shotwell St_STR-8201.1(24th St to 19th St).pdf",
+    "was": "2026-10-20T06:30:26+00:00",
+    "now": "2026-11-03T07:30:43+00:00"
+   },
+   {
+    "path": "Striping Drawings/S_Streets/Stanyan st/Stanyan St_STR-7993.1 (Frederick St to Hayes St).pdf",
+    "was": "2026-08-26T06:30:20+00:00",
+    "now": "2026-11-05T07:33:45+00:00"
+   },
+   {
+    "path": "Striping Drawings/T_Streets/Treasure Island Roads/TI_Road-STR 8483 (Trade Winds Ave to Macalla Rd).pdf",
+    "was": "2025-10-28T06:30:26+00:00",
+    "now": "2026-11-03T07:30:43+00:00"
+   },
+   {
+    "path": "Striping Drawings/W_Streets/Waller st/Waller St_Str-7979 (Stanyan St to Central Ave).pdf",
+    "was": "2025-12-03T07:30:21+00:00",
+    "now": "2026-11-05T07:33:45+00:00"
+   }
+  ]
  }
 ]
