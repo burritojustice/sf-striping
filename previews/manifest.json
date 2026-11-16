@@ -1997,15 +1997,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"82d12f0b1861": {
-"path": "Striping Drawings/02_Numbered_Street/3rd st/3rd st_str-7678.4 (24th St to Burke Ave).pdf",
-"modified": "2024-11-27T07:30:21+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "9b22beb07d42": {
 "path": "Striping Drawings/02_Numbered_Street/3rd st/3rd st_str-7678.5 (Burke Ave to Jerrold Ave).pdf",
 "modified": "2025-08-05T06:30:27+00:00",
@@ -5794,15 +5785,6 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1941
-},
-"b7cb3275418a": {
-"path": "Striping Drawings/F_Streets/Fillmore St/Fillmore st_str-4072 (Chestnut St to Clay St See Juan Hernandez 2026-10-05.pdf",
-"modified": "2026-10-06T06:33:48+00:00",
-"w": 1000,
-"h": 618,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1855
 },
 "4d9b7a8467c0": {
 "path": "Striping Drawings/F_Streets/Fillmore St/Fillmore St_STR-8510 (Duboce Ave to Fulton St).pdf",
@@ -9910,7 +9892,7 @@
 },
 "84d97ba1e40d": {
 "path": "Striping Drawings/M_Streets/Mission St/3-Mission St_Str-8249.2 (Seneca Ave to Harrington St).pdf",
-"modified": "2026-10-06T06:33:48+00:00",
+"modified": "2026-11-11T07:33:30+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -11113,15 +11095,6 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1922
-},
-"c811bbb06772": {
-"path": "Striping Drawings/P_Streets/Persia St/Persia Ave_STR-8141.0 (Ocean Ave to Munich St).pdf",
-"modified": "2026-07-15T06:30:27+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
 },
 "2691b25cd8f4": {
 "path": "Striping Drawings/P_Streets/Persia St/Persia Ave_STR-8141.2 (Dublin St to Mansell St).pdf",
@@ -13076,15 +13049,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"0a9d108292a3": {
-"path": "Striping Drawings/T_Streets/Teddy Ave/Teddy Ave_STR-8528 (Elliott St to San Bruno Ave).pdf",
-"modified": "2026-02-07T07:31:10+00:00",
-"w": 1000,
-"h": 669,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 2006
-},
 "c7b348d3f4d5": {
 "path": "Striping Drawings/T_Streets/Telegraph Hill Blvd/Telegraph Hill Blvd_str-7566 (Kearny st to Greenwich st) see M.Tsai 2021-08-02.pdf",
 "modified": "2024-08-15T21:37:20+00:00",
@@ -14587,5 +14551,32 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1940
+},
+"6930ddc04d05": {
+"path": "Striping Drawings/02_Numbered_Street/3rd st/3rd st_str-7678.4 (24th St to Burke Ave)r10.pdf",
+"modified": "2026-11-14T07:31:08+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"471bab2835dd": {
+"path": "Striping Drawings/F_Streets/Fillmore St/Fillmore st_str-4072 (Chestnut St to Clay St).pdf",
+"modified": "2026-11-10T07:33:29+00:00",
+"w": 1000,
+"h": 649,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1946
+},
+"6acff317f91f": {
+"path": "Striping Drawings/P_Streets/Persia St/Persia Ave_STR-8141 (Ocean Ave to Munich St).pdf",
+"modified": "2026-11-11T07:33:30+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
 }
 }
