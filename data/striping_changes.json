@@ -626,5 +626,261 @@
     "now": "2026-11-11T07:33:30+00:00"
    }
   ]
+ },
+ {
+  "run": "2026-11-24T00:55:00+00:00",
+  "added": [],
+  "removed": [],
+  "renamed": [
+   {
+    "id": "8131.1",
+    "from": [
+     "Striping Drawings/01_Numbered_Avenue/15th Ave/15th Ave_STR-8131.1 (Geary Blvd to Wedemeyer St).pdf"
+    ],
+    "to": "Striping Drawings/01_Numbered_Avenue/15th Ave/15th Ave_STR-8131.1 (Geary Blvd to Wedemeyer St)r5.pdf"
+   },
+   {
+    "id": "8323.1",
+    "from": [
+     "Striping Drawings/01_Numbered_Avenue/19th Ave/19th Ave_STR-8323.1 (Clement St to Lake St).pdf"
+    ],
+    "to": "Striping Drawings/01_Numbered_Avenue/19th Ave/19th Ave_STR-8323.1 (Clement St to Lake St)r4.pdf"
+   },
+   {
+    "id": "8170.1",
+    "from": [
+     "Striping Drawings/01_Numbered_Avenue/22nd Ave/22nd Ave_STR-8170.1 (Geary Blvd to West Clay St).pdf"
+    ],
+    "to": "Striping Drawings/01_Numbered_Avenue/22nd Ave/22nd Ave_STR-8170.1 (Geary Blvd to West Clay St)r1.pdf"
+   },
+   {
+    "id": "6619",
+    "from": [
+     "Striping Drawings/B_Streets/Beach st/Beach st_str-6619 (Baker to Buchanan).pdf"
+    ],
+    "to": "Striping Drawings/B_Streets/Beach st/Beach st_str-6619 (Baker to Buchanan)r8_see Laura Stonehill 2026-11-19.pdf"
+   },
+   {
+    "id": "7879.4",
+    "from": [
+     "Striping Drawings/D_Streets/Divisadero st/6_Divisadero St_Str-7879.4 (Filbert St to Marina Blvd).pdf"
+    ],
+    "to": "Striping Drawings/D_Streets/Divisadero st/6_Divisadero St_Str-7879.4 (Filbert St to Marina Blvd)r9.pdf"
+   },
+   {
+    "id": "5927",
+    "from": [
+     "Striping Drawings/F_Streets/Filbert St/Filbert st_str-5927 (Van ness Ave to Jones St).pdf"
+    ],
+    "to": "Striping Drawings/F_Streets/Filbert St/Filbert st_str-5927 (Van ness Ave to Jones St)r11_see Laura Stonehill 2026-11-19.pdf"
+   },
+   {
+    "id": "2243.6",
+    "from": [
+     "Striping Drawings/F_Streets/Fulton St/10-Fulton St_str-2243.6 (Scott St to Gough St) See Juan Hernandez 2026-10-21.pdf"
+    ],
+    "to": "Striping Drawings/F_Streets/Fulton St/10-Fulton St_str-2243.6 (Scott St to Gough St).pdf"
+   },
+   {
+    "id": "2232",
+    "from": [
+     "Striping Drawings/G_Streets/Green st/Parking Stalls_Green st_Str-2232 (Kearny to Montgomery ).pdf"
+    ],
+    "to": "Striping Drawings/G_Streets/Green st/Parking Stalls_Green st_Str-2232 (Kearny to Montgomery ) See Juan Hernandez 2026-11-16.pdf"
+   },
+   {
+    "id": "8455",
+    "from": [
+     "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455 (19th Ave to Winston Dr).pdf"
+    ],
+    "to": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra Blvd_Str-8455 (19th Ave to Winston Dr).pdf"
+   },
+   {
+    "id": "8455.1",
+    "from": [
+     "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455.1 (Winston Dr to Ocean Ave).pdf"
+    ],
+    "to": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra Blvd_Str-8455.1 (Winston Dr to Ocean Ave).pdf"
+   },
+   {
+    "id": "8455.2",
+    "from": [
+     "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455.2 (Ocean Ave to Saint Francis Blvd).pdf"
+    ],
+    "to": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra Blvd_Str-8455.2 (Ocean Ave to Saint Francis Blvd).pdf"
+   },
+   {
+    "id": "7608.2",
+    "from": [
+     "Striping Drawings/L_Streets/Laguna Honda blvd/Laguna Honda Blvd_Str-7608.2 (Woodside Ave to Clarendon Ave).pdf"
+    ],
+    "to": "Striping Drawings/L_Streets/Laguna Honda blvd/Laguna Honda Blvd_Str-7608.2 (Woodside Ave to Clarendon Ave)r27.pdf"
+   },
+   {
+    "id": "7826.1",
+    "from": [
+     "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826.1 (22nd Ave to Funston Ave)r11.pdf"
+    ],
+    "to": "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826.1 (22nd Ave to Funston Ave).pdf"
+   },
+   {
+    "id": "6280",
+    "from": [
+     "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-6280 (20th St to Turner St) SeE Jonathan Wong 2026-10-07.pdf"
+    ],
+    "to": "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-6280 (20th St to Turner St).pdf"
+   },
+   {
+    "id": "7711",
+    "from": [
+     "Striping Drawings/O_Streets/Octavia Blvd/Octavia Blvd_Str-7711 (Fulton St to Market St) r30.pdf"
+    ],
+    "to": "Striping Drawings/O_Streets/Octavia Blvd/Octavia Blvd_Str-7711 (Fulton St to Market St).pdf"
+   },
+   {
+    "id": "8117.2",
+    "from": [
+     "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.2 (Sacramento St to Filbert St).pdf"
+    ],
+    "to": "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.2 (Sacramento St to Filbert St)r7.pdf"
+   }
+  ],
+  "updated": [
+   {
+    "path": "Striping Drawings/01_Numbered_Avenue/14th Ave/14th Ave_STR-8049.1 (Geary Blvd to Lake St).pdf",
+    "was": "2026-06-12T06:30:22+00:00",
+    "now": "2026-11-18T07:30:28+00:00"
+   },
+   {
+    "path": "Striping Drawings/01_Numbered_Avenue/38th Ave/38th Ave_STR-8300.2 (Lawton St to Lincoln Way).pdf",
+    "was": "2026-10-21T06:30:35+00:00",
+    "now": "2026-11-20T07:30:44+00:00"
+   },
+   {
+    "path": "Striping Drawings/02_Numbered_Street/15th st/15th St_STR-7948 (Dolores St to South Van Ness Ave).pdf",
+    "was": "2026-04-17T06:30:28+00:00",
+    "now": "2026-11-19T07:31:02+00:00"
+   },
+   {
+    "path": "Striping Drawings/02_Numbered_Street/20th St/20th St_Str-8139 (San Bruno St to Texas St).pdf",
+    "was": "2026-10-01T06:30:39+00:00",
+    "now": "2026-11-19T07:31:02+00:00"
+   },
+   {
+    "path": "Striping Drawings/B_Streets/Brentwood Ave/Brentwood Ave_STR-8271 (Maywood Dr to Mangels Ave).pdf",
+    "was": "2026-09-02T06:30:42+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/B_Streets/Broadway/Broadway St_STR-8220 (Lyon St to Pierce St).pdf",
+    "was": "2025-03-13T06:30:20+00:00",
+    "now": "2026-11-19T07:31:02+00:00"
+   },
+   {
+    "path": "Striping Drawings/B_Streets/Broadway/Broadway St_STR-8220.1 (Pierce St to Octavia St).pdf",
+    "was": "2025-03-13T06:30:20+00:00",
+    "now": "2026-11-19T07:31:02+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/Cabrillo St/Cabrillo st_STR-7627.4 (22nd Ave to Funston Ave).pdf",
+    "was": "2026-07-30T06:30:25+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/C_Streets/Clement st/Clement st_Str-7996.3 (18th Ave to 9th Ave).pdf",
+    "was": "2026-02-21T07:30:44+00:00",
+    "now": "2026-11-18T07:30:28+00:00"
+   },
+   {
+    "path": "Striping Drawings/D_Streets/De Haro st/De Haro_Str-6838 (Mariposa St to Division St) See Westley Miles 2021-12-22.pdf",
+    "was": "2024-08-15T21:37:24+00:00",
+    "now": "2026-11-18T07:30:28+00:00"
+   },
+   {
+    "path": "Striping Drawings/F_Streets/Fillmore St/Fillmore St_STR-8510 (Duboce Ave to Fulton St).pdf",
+    "was": "2026-10-28T06:33:37+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/F_Streets/Frederick St/Frederick St_Str-7847 (Arguello Blvd to Buena Vista).pdf",
+    "was": "2026-08-04T06:30:46+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/F_Streets/Funston Ave/Funston Ave_Str-8041 (Fulton St to Geary Blvd).pdf",
+    "was": "2026-07-30T06:30:25+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/G_Streets/Gennessee St/Gennessee St_Str-7843 (Judson Ave to Monterey Blvd).pdf",
+    "was": "2026-09-30T06:30:34+00:00",
+    "now": "2026-11-19T07:31:02+00:00"
+   },
+   {
+    "path": "Striping Drawings/G_Streets/Golden Gate Ave/2_Golden Gate Ave_Str-7630.1 (Tamalpais Ter to Divisadero St).pdf",
+    "was": "2026-10-23T06:30:28+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/L_Streets/Laguna st/Laguna St_Str-7837 (Linden St to Golden Gate Ave).pdf",
+    "was": "2026-01-21T07:30:26+00:00",
+    "now": "2026-11-17T07:30:36+00:00"
+   },
+   {
+    "path": "Striping Drawings/L_Streets/Laguna st/Laguna St_STR-7837.1 (Golden Gate Ave to Bush St).pdf",
+    "was": "2026-05-20T06:30:30+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/L_Streets/Lawton St/Lawton st_str-7730 (Great highway to 40th Ave).pdf",
+    "was": "2026-10-21T06:30:35+00:00",
+    "now": "2026-11-20T07:30:44+00:00"
+   },
+   {
+    "path": "Striping Drawings/L_Streets/Lawton St/Lawton st_str-7730.1 (40th Ave to 30th Ave).pdf",
+    "was": "2026-10-21T06:30:35+00:00",
+    "now": "2026-11-20T07:30:44+00:00"
+   },
+   {
+    "path": "Striping Drawings/L_Streets/Lawton St/Lawton St_str-7730.2 (30th Ave to 16th Ave).pdf",
+    "was": "2026-07-24T06:30:48+00:00",
+    "now": "2026-11-20T07:30:44+00:00"
+   },
+   {
+    "path": "Striping Drawings/N_Streets/North Point st/North Point St_Str-7713  (Van Ness ave to Jones St).pdf",
+    "was": "2026-11-03T07:30:43+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/R_Streets/Rousseau St/Rousseau St_STR-8231 (Alemany Blvd to San Jose Ave).pdf",
+    "was": "2024-08-15T21:37:20+00:00",
+    "now": "2026-11-20T07:30:44+00:00"
+   },
+   {
+    "path": "Striping Drawings/S_Streets/Santa Ynez Ave/Santa Ynez Ave_STR-8108 (Ocean Ave to San Jose Ave).pdf",
+    "was": "2026-09-30T06:30:34+00:00",
+    "now": "2026-11-21T07:31:17+00:00"
+   },
+   {
+    "path": "Striping Drawings/S_Streets/Steiner st/Steiner St_Str-7897.1 (Hayes St to Ellis St)r11.pdf",
+    "was": "2026-10-27T06:30:51+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/S_Streets/Sutter st/Sutter st_Str-7606.1 (Fillmore St to Gough St).pdf",
+    "was": "2026-01-21T07:30:26+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   },
+   {
+    "path": "Striping Drawings/T_Streets/Tapia Dr/Tapia Dr_STR-8606 (Font Blvd to Serrano Dr).pdf",
+    "was": "2026-10-16T06:30:39+00:00",
+    "now": "2026-11-18T07:30:28+00:00"
+   },
+   {
+    "path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.3 (16th St to Market St).pdf",
+    "was": "2026-11-05T07:33:45+00:00",
+    "now": "2026-11-17T07:30:37+00:00"
+   }
+  ]
  }
 ]
