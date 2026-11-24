@@ -118,7 +118,7 @@
 },
 "9fcf12f9f49d": {
 "path": "Striping Drawings/01_Numbered_Avenue/14th Ave/14th Ave_STR-8049.1 (Geary Blvd to Lake St).pdf",
-"modified": "2026-06-12T06:30:22+00:00",
+"modified": "2026-11-18T07:30:28+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -155,15 +155,6 @@
 "e43076a796ef": {
 "path": "Striping Drawings/01_Numbered_Avenue/15th Ave/15th Ave_STR-8131 (Fulton St to Geary Blvd).pdf",
 "modified": "2026-01-14T07:30:31+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"63d671cc3a01": {
-"path": "Striping Drawings/01_Numbered_Avenue/15th Ave/15th Ave_STR-8131.1 (Geary Blvd to Wedemeyer St).pdf",
-"modified": "2025-02-06T07:30:31+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -341,15 +332,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"82b2b853a6ea": {
-"path": "Striping Drawings/01_Numbered_Avenue/19th Ave/19th Ave_STR-8323.1 (Clement St to Lake St).pdf",
-"modified": "2024-08-15T21:37:30+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "3083fad77613": {
 "path": "Striping Drawings/01_Numbered_Avenue/20th Ave/20th Ave_Str-7829 (Lincoln Way to Kirkham St).pdf",
 "modified": "2026-03-19T06:30:27+00:00",
@@ -425,15 +407,6 @@
 "d526da8c9ef7": {
 "path": "Striping Drawings/01_Numbered_Avenue/22nd Ave/22nd Ave_STR-8170 (Fulton St  to West Clay St)r8.pdf",
 "modified": "2026-01-03T07:36:48+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"2b8938422223": {
-"path": "Striping Drawings/01_Numbered_Avenue/22nd Ave/22nd Ave_STR-8170.1 (Geary Blvd to West Clay St).pdf",
-"modified": "2024-08-15T21:37:28+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -865,7 +838,7 @@
 },
 "cb6b0dd74521": {
 "path": "Striping Drawings/01_Numbered_Avenue/38th Ave/38th Ave_STR-8300.2 (Lawton St to Lincoln Way).pdf",
-"modified": "2026-10-21T06:30:35+00:00",
+"modified": "2026-11-20T07:30:44+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -1405,7 +1378,7 @@
 },
 "eaecb5b6d2ca": {
 "path": "Striping Drawings/02_Numbered_Street/15th st/15th St_STR-7948 (Dolores St to South Van Ness Ave).pdf",
-"modified": "2026-04-17T06:30:28+00:00",
+"modified": "2026-11-19T07:31:02+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -1648,7 +1621,7 @@
 },
 "bd807f6751e3": {
 "path": "Striping Drawings/02_Numbered_Street/20th St/20th St_Str-8139 (San Bruno St to Texas St).pdf",
-"modified": "2026-10-01T06:30:39+00:00",
+"modified": "2026-11-19T07:31:02+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -3050,15 +3023,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"a8118f13974c": {
-"path": "Striping Drawings/B_Streets/Beach st/Beach st_str-6619 (Baker to Buchanan).pdf",
-"modified": "2026-03-12T06:30:29+00:00",
-"w": 1000,
-"h": 648,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1944
-},
 "ef9d14f5af03": {
 "path": "Striping Drawings/B_Streets/Beach st/Beach st_Str-7613 (Embarcadero to Polk).pdf",
 "modified": "2026-04-22T06:30:22+00:00",
@@ -3268,7 +3232,7 @@
 },
 "3e0ff0734986": {
 "path": "Striping Drawings/B_Streets/Brentwood Ave/Brentwood Ave_STR-8271 (Maywood Dr to Mangels Ave).pdf",
-"modified": "2026-09-02T06:30:42+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -3349,21 +3313,21 @@
 },
 "f845771de590": {
 "path": "Striping Drawings/B_Streets/Broadway/Broadway St_STR-8220 (Lyon St to Pierce St).pdf",
-"modified": "2025-03-13T06:30:20+00:00",
+"modified": "2026-11-19T07:31:02+00:00",
 "w": 1000,
-"h": 613,
+"h": 647,
 "hi": 3000,
 "hi_w": 3000,
-"hi_h": 1840
+"hi_h": 1941
 },
 "3ad885dd3457": {
 "path": "Striping Drawings/B_Streets/Broadway/Broadway St_STR-8220.1 (Pierce St to Octavia St).pdf",
-"modified": "2025-03-13T06:30:20+00:00",
+"modified": "2026-11-19T07:31:02+00:00",
 "w": 1000,
-"h": 613,
+"h": 647,
 "hi": 3000,
 "hi_w": 3000,
-"hi_h": 1840
+"hi_h": 1941
 },
 "c0a98d2d1b9e": {
 "path": "Striping Drawings/B_Streets/Broadway/Broadway St_STR-8220.2 (Octavia St to Larkin St).pdf",
@@ -3700,7 +3664,7 @@
 },
 "8fc53067fe88": {
 "path": "Striping Drawings/C_Streets/Cabrillo St/Cabrillo st_STR-7627.4 (22nd Ave to Funston Ave).pdf",
-"modified": "2026-07-30T06:30:25+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -4492,7 +4456,7 @@
 },
 "9573c5bc9351": {
 "path": "Striping Drawings/C_Streets/Clement st/Clement st_Str-7996.3 (18th Ave to 9th Ave).pdf",
-"modified": "2026-02-21T07:30:44+00:00",
+"modified": "2026-11-18T07:30:28+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -4879,7 +4843,7 @@
 },
 "e781c4800cb6": {
 "path": "Striping Drawings/D_Streets/De Haro st/De Haro_Str-6838 (Mariposa St to Division St) See Westley Miles 2021-12-22.pdf",
-"modified": "2024-08-15T21:37:24+00:00",
+"modified": "2026-11-18T07:30:28+00:00",
 "w": 1000,
 "h": 643,
 "hi": 3000,
@@ -5042,15 +5006,6 @@
 "06bb4d03fb56": {
 "path": "Striping Drawings/D_Streets/Divisadero st/5_Divisadero st_Str-7879.3 (Washington St to Filbert St).pdf",
 "modified": "2026-10-14T06:30:27+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"2c0aa6ea830a": {
-"path": "Striping Drawings/D_Streets/Divisadero st/6_Divisadero St_Str-7879.4 (Filbert St to Marina Blvd).pdf",
-"modified": "2025-02-13T07:30:36+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -5768,15 +5723,6 @@
 "hi_w": 3000,
 "hi_h": 2004
 },
-"e40fe3a38ebf": {
-"path": "Striping Drawings/F_Streets/Filbert St/Filbert st_str-5927 (Van ness Ave to Jones St).pdf",
-"modified": "2024-12-05T07:30:22+00:00",
-"w": 1000,
-"h": 653,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1959
-},
 "5ad08e47d42e": {
 "path": "Striping Drawings/F_Streets/Filbert St/Filbert St_Str-8089 (Jones St to Kearny St).pdf",
 "modified": "2026-09-16T06:30:38+00:00",
@@ -5788,7 +5734,7 @@
 },
 "4d9b7a8467c0": {
 "path": "Striping Drawings/F_Streets/Fillmore St/Fillmore St_STR-8510 (Duboce Ave to Fulton St).pdf",
-"modified": "2026-10-28T06:33:37+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -6058,7 +6004,7 @@
 },
 "95c24ffe0005": {
 "path": "Striping Drawings/F_Streets/Frederick St/Frederick St_Str-7847 (Arguello Blvd to Buena Vista).pdf",
-"modified": "2026-08-04T06:30:46+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -6184,7 +6130,7 @@
 },
 "e8189d387554": {
 "path": "Striping Drawings/F_Streets/Funston Ave/Funston Ave_Str-8041 (Fulton St to Geary Blvd).pdf",
-"modified": "2026-07-30T06:30:25+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -6436,7 +6382,7 @@
 },
 "401272c2b47f": {
 "path": "Striping Drawings/G_Streets/Gennessee St/Gennessee St_Str-7843 (Judson Ave to Monterey Blvd).pdf",
-"modified": "2026-09-30T06:30:34+00:00",
+"modified": "2026-11-19T07:31:02+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -6865,15 +6811,6 @@
 "hi": 3000,
 "hi_w": 3000,
 "hi_h": 1941
-},
-"40a1874690f1": {
-"path": "Striping Drawings/G_Streets/Green st/Parking Stalls_Green st_Str-2232 (Kearny to Montgomery ).pdf",
-"modified": "2025-10-23T06:30:38+00:00",
-"w": 1000,
-"h": 669,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 2006
 },
 "6af8b2c62880": {
 "path": "Striping Drawings/G_Streets/Green st/Parking Stalls_Green st_Str-4058 (Mason St to Powell).pdf",
@@ -8234,33 +8171,6 @@
 "hi_w": 3000,
 "hi_h": 2004
 },
-"f53663a3ab89": {
-"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455 (19th Ave to Winston Dr).pdf",
-"modified": "2024-09-10T06:30:34+00:00",
-"w": 1000,
-"h": 668,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 2004
-},
-"d32420798ac7": {
-"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455.1 (Winston Dr to Ocean Ave).pdf",
-"modified": "2025-08-31T06:30:41+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
-"c6b924695d2c": {
-"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra blvd_Str-8455.2 (Ocean Ave to Saint Francis Blvd).pdf",
-"modified": "2024-09-10T06:30:34+00:00",
-"w": 1000,
-"h": 668,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 2004
-},
 "f4b5da95c626": {
 "path": "Striping Drawings/J_Streets/Justin Dr/Str-5339 (Justin Dr_College ave to Genebern way).pdf",
 "modified": "2024-08-15T21:37:15+00:00",
@@ -8594,15 +8504,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"31647b674478": {
-"path": "Striping Drawings/L_Streets/Laguna Honda blvd/Laguna Honda Blvd_Str-7608.2 (Woodside Ave to Clarendon Ave).pdf",
-"modified": "2026-07-17T06:30:36+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "ef053029b3ae": {
 "path": "Striping Drawings/L_Streets/Laguna Honda blvd/Laguna Honda Blvd_Str-7608.3 (Portola Drive to Vasquez Ave).pdf",
 "modified": "2026-09-02T06:30:42+00:00",
@@ -8641,7 +8542,7 @@
 },
 "b38f7affff5e": {
 "path": "Striping Drawings/L_Streets/Laguna st/Laguna St_Str-7837 (Linden St to Golden Gate Ave).pdf",
-"modified": "2026-01-21T07:30:26+00:00",
+"modified": "2026-11-17T07:30:36+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -8650,7 +8551,7 @@
 },
 "bf92e31f55b3": {
 "path": "Striping Drawings/L_Streets/Laguna st/Laguna St_STR-7837.1 (Golden Gate Ave to Bush St).pdf",
-"modified": "2026-05-20T06:30:30+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -8821,7 +8722,7 @@
 },
 "b499d610fcb1": {
 "path": "Striping Drawings/L_Streets/Lawton St/Lawton st_str-7730 (Great highway to 40th Ave).pdf",
-"modified": "2026-10-21T06:30:35+00:00",
+"modified": "2026-11-20T07:30:44+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -8830,7 +8731,7 @@
 },
 "4d320441f630": {
 "path": "Striping Drawings/L_Streets/Lawton St/Lawton st_str-7730.1 (40th Ave to 30th Ave).pdf",
-"modified": "2026-10-21T06:30:35+00:00",
+"modified": "2026-11-20T07:30:44+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -8839,7 +8740,7 @@
 },
 "ab691ffaa12c": {
 "path": "Striping Drawings/L_Streets/Lawton St/Lawton St_str-7730.2 (30th Ave to 16th Ave).pdf",
-"modified": "2026-07-24T06:30:48+00:00",
+"modified": "2026-11-20T07:30:44+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -10619,15 +10520,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"43ab39dce4eb": {
-"path": "Striping Drawings/O_Streets/Octavia Blvd/Octavia Blvd_Str-7711 (Fulton St to Market St) r30.pdf",
-"modified": "2024-08-15T21:37:21+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "f8e95ef75aed": {
 "path": "Striping Drawings/O_Streets/Octavia St/Octavia St_STR-8116 (Bush St to Vallejo St)r1.pdf",
 "modified": "2025-07-30T06:30:42+00:00",
@@ -11240,15 +11132,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"b04f4680f975": {
-"path": "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.2 (Sacramento St to Filbert St).pdf",
-"modified": "2026-03-07T07:30:34+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "6d8feecd0b17": {
 "path": "Striping Drawings/P_Streets/Pond St/Pond St_STR-8457 (16th St to 17th St).pdf",
 "modified": "2024-08-15T21:37:35+00:00",
@@ -11800,7 +11683,7 @@
 },
 "95d720db3f87": {
 "path": "Striping Drawings/R_Streets/Rousseau St/Rousseau St_STR-8231 (Alemany Blvd to San Jose Ave).pdf",
-"modified": "2024-08-15T21:37:20+00:00",
+"modified": "2026-11-20T07:30:44+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -12232,7 +12115,7 @@
 },
 "a759a96e363f": {
 "path": "Striping Drawings/S_Streets/Santa Ynez Ave/Santa Ynez Ave_STR-8108 (Ocean Ave to San Jose Ave).pdf",
-"modified": "2026-09-30T06:30:34+00:00",
+"modified": "2026-11-21T07:31:17+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -12934,7 +12817,7 @@
 },
 "c0cf40df8af6": {
 "path": "Striping Drawings/S_Streets/Sutter st/Sutter st_Str-7606.1 (Fillmore St to Gough St).pdf",
-"modified": "2026-01-21T07:30:26+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14165,15 +14048,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"a1fb2b6f6ca3": {
-"path": "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-6280 (20th St to Turner St) SeE Jonathan Wong 2026-10-07.pdf",
-"modified": "2026-10-08T06:30:30+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "627413a8b179": {
 "path": "Striping Drawings/O_Streets/Ocean Ave/Ocean Ave Str-7656.3 (Plymouth Ave to Geneva Ave).pdf",
 "modified": "2026-11-03T07:30:43+00:00",
@@ -14221,12 +14095,12 @@
 },
 "29567f05a0a8": {
 "path": "Striping Drawings/T_Streets/Tapia Dr/Tapia Dr_STR-8606 (Font Blvd to Serrano Dr).pdf",
-"modified": "2026-10-16T06:30:39+00:00",
+"modified": "2026-11-18T07:30:28+00:00",
 "w": 1000,
-"h": 660,
+"h": 647,
 "hi": 3000,
 "hi_w": 3000,
-"hi_h": 1981
+"hi_h": 1941
 },
 "b0c66fdfe0c9": {
 "path": "Striping Drawings/V_Streets/Vidal Dr/Vidal Dr-STR-8604 (Rivas Dr to Arballo Dr).pdf",
@@ -14264,18 +14138,9 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"fa038ad150eb": {
-"path": "Striping Drawings/F_Streets/Fulton St/10-Fulton St_str-2243.6 (Scott St to Gough St) See Juan Hernandez 2026-10-21.pdf",
-"modified": "2026-11-06T07:30:29+00:00",
-"w": 1000,
-"h": 667,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 2000
-},
 "c7cb627b68b4": {
 "path": "Striping Drawings/G_Streets/Golden Gate Ave/2_Golden Gate Ave_Str-7630.1 (Tamalpais Ter to Divisadero St).pdf",
-"modified": "2026-10-23T06:30:28+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14354,15 +14219,6 @@
 "hi_w": 3000,
 "hi_h": 1941
 },
-"632e05eb2084": {
-"path": "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826.1 (22nd Ave to Funston Ave)r11.pdf",
-"modified": "2026-10-28T06:33:37+00:00",
-"w": 1000,
-"h": 647,
-"hi": 3000,
-"hi_w": 3000,
-"hi_h": 1941
-},
 "5a68d0485fbc": {
 "path": "Striping Drawings/S_Streets/Steiner st/Steiner St_Str-7897(Duboce St to Hayes St)r6.pdf",
 "modified": "2026-10-27T06:30:52+00:00",
@@ -14374,7 +14230,7 @@
 },
 "a66492be9d80": {
 "path": "Striping Drawings/S_Streets/Steiner st/Steiner St_Str-7897.1 (Hayes St to Ellis St)r11.pdf",
-"modified": "2026-10-27T06:30:51+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14482,7 +14338,7 @@
 },
 "d44a5555829a": {
 "path": "Striping Drawings/N_Streets/North Point st/North Point St_Str-7713  (Van Ness ave to Jones St).pdf",
-"modified": "2026-11-03T07:30:43+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14527,7 +14383,7 @@
 },
 "88bd9e4ccd8d": {
 "path": "Striping Drawings/V_Streets/Valencia st/Valencia St_STR-8218.3 (16th St to Market St).pdf",
-"modified": "2026-11-05T07:33:45+00:00",
+"modified": "2026-11-17T07:30:37+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
@@ -14573,6 +14429,150 @@
 "6acff317f91f": {
 "path": "Striping Drawings/P_Streets/Persia St/Persia Ave_STR-8141 (Ocean Ave to Munich St).pdf",
 "modified": "2026-11-11T07:33:30+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"073787589bad": {
+"path": "Striping Drawings/01_Numbered_Avenue/15th Ave/15th Ave_STR-8131.1 (Geary Blvd to Wedemeyer St)r5.pdf",
+"modified": "2026-11-20T07:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"3d7fb8eab11b": {
+"path": "Striping Drawings/01_Numbered_Avenue/19th Ave/19th Ave_STR-8323.1 (Clement St to Lake St)r4.pdf",
+"modified": "2026-11-20T07:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"c09af12f29ca": {
+"path": "Striping Drawings/01_Numbered_Avenue/22nd Ave/22nd Ave_STR-8170.1 (Geary Blvd to West Clay St)r1.pdf",
+"modified": "2026-11-20T07:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"0bffc2223e39": {
+"path": "Striping Drawings/B_Streets/Beach st/Beach st_str-6619 (Baker to Buchanan)r8_see Laura Stonehill 2026-11-19.pdf",
+"modified": "2026-11-20T07:30:44+00:00",
+"w": 1000,
+"h": 648,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1944
+},
+"b6b33c4d2f1d": {
+"path": "Striping Drawings/D_Streets/Divisadero st/6_Divisadero St_Str-7879.4 (Filbert St to Marina Blvd)r9.pdf",
+"modified": "2026-11-20T07:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"aef53ccae7df": {
+"path": "Striping Drawings/F_Streets/Filbert St/Filbert st_str-5927 (Van ness Ave to Jones St)r11_see Laura Stonehill 2026-11-19.pdf",
+"modified": "2026-11-20T07:30:44+00:00",
+"w": 1000,
+"h": 653,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1959
+},
+"dfb63bbe8a3e": {
+"path": "Striping Drawings/F_Streets/Fulton St/10-Fulton St_str-2243.6 (Scott St to Gough St).pdf",
+"modified": "2026-11-18T07:30:28+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2003
+},
+"a5c7220f96a4": {
+"path": "Striping Drawings/G_Streets/Green st/Parking Stalls_Green st_Str-2232 (Kearny to Montgomery ) See Juan Hernandez 2026-11-16.pdf",
+"modified": "2026-11-17T07:32:14+00:00",
+"w": 1000,
+"h": 669,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2006
+},
+"fcc120c3c844": {
+"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra Blvd_Str-8455 (19th Ave to Winston Dr).pdf",
+"modified": "2026-11-17T07:30:37+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2004
+},
+"a2899a955908": {
+"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra Blvd_Str-8455.1 (Winston Dr to Ocean Ave).pdf",
+"modified": "2026-11-17T07:30:37+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"c36d2993e890": {
+"path": "Striping Drawings/J_Streets/Junipero Serra blvd/Junipero Serra Blvd_Str-8455.2 (Ocean Ave to Saint Francis Blvd).pdf",
+"modified": "2026-11-17T07:30:37+00:00",
+"w": 1000,
+"h": 668,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2004
+},
+"49519dfe3b7d": {
+"path": "Striping Drawings/L_Streets/Laguna Honda blvd/Laguna Honda Blvd_Str-7608.2 (Woodside Ave to Clarendon Ave)r27.pdf",
+"modified": "2026-11-20T07:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8e4f3d99eb38": {
+"path": "Striping Drawings/L_Streets/Lake st/Lake St_Str-7826.1 (22nd Ave to Funston Ave).pdf",
+"modified": "2026-11-20T07:30:44+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"8e6cee7ac592": {
+"path": "Striping Drawings/M_Streets/Missouri St/Missouri St_Str-6280 (20th St to Turner St).pdf",
+"modified": "2026-11-19T07:31:02+00:00",
+"w": 1000,
+"h": 705,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 2115
+},
+"bafa42220b7d": {
+"path": "Striping Drawings/O_Streets/Octavia Blvd/Octavia Blvd_Str-7711 (Fulton St to Market St).pdf",
+"modified": "2026-11-18T07:30:28+00:00",
+"w": 1000,
+"h": 647,
+"hi": 3000,
+"hi_w": 3000,
+"hi_h": 1941
+},
+"b31bdc542b2d": {
+"path": "Striping Drawings/P_Streets/Polk St/Polk St_Str-8117.2 (Sacramento St to Filbert St)r7.pdf",
+"modified": "2026-11-20T07:30:44+00:00",
 "w": 1000,
 "h": 647,
 "hi": 3000,
